@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_150732",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          797,
+          301
+        ],
+        [
+          1043,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.gallery.pro:id/directories_empty_placeholder_2",
+      "checked": false,
+      "text": "Add folder",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 21,
+      "size": "246*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/directories_empty_placeholder_2[text]Add folder[enabled,,]",
+      "view_str": "55411170c3ecb46c7e34084dc44d36e8",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/directories_empty_placeholder_2"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2",
+  "stop_state": "461ff2f75a2b9ed66207cd932e2eb37a4b2f5f46bc9f5fc55e6c2c5b8af881f4",
+  "event_str": "TouchEvent(state=50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2, view=55411170c3ecb46c7e34084dc44d36e8(MainActivity/TextView-Add folder))"
+}

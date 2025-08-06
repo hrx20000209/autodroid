@@ -1,0 +1,1 @@
+[['Allow Voice Recorder to access the microphone?', 9], ['ALLOW ONLY WHILE IN USE', 12], ['ALLOW THIS TIME ONLY', 13], ['DENY', 14]]

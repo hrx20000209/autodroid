@@ -1,0 +1,2760 @@
+{
+  "tag": "2025-07-31_143357",
+  "state_str": "ccde1ea9458f98ab1e61ba1c4f316c083f8a3adb1a7210544102cc629ce8d478",
+  "state_str_content_free": "4a5346db133522a7fae260841949ba29",
+  "foreground_activity": "com.simplemobiletools.contacts.pro/.activities.MainActivity",
+  "activity_stack": [
+    "com.simplemobiletools.contacts.pro/.activities.MainActivity"
+  ],
+  "background_services": [
+    "com.huawei.msdp/.devicestatus.HwMSDPDeviceStatusService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyCoreService",
+    "com.huawei.systemmanager/com.huawei.smartcharge.SmartChargeService",
+    "com.huawei.systemserver/.emcom.EmcomManagerService",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.huawei.securityserver/.securityguard.HwSecGuardService",
+    "com.huawei.securityserver/.HwSecurityService",
+    "com.huawei.security.hsdr/.HsdrService",
+    "com.huawei.browser/.customtab.CustomTabConnectionService",
+    "tv.danmaku.bili/com.bilibili.game.service.DownloadService",
+    "com.android.bluetooth/.hearingaid.HearingAidService",
+    "com.huawei.searchservice/com.huawei.nb.searchmanager.service.SearchService",
+    "com.huawei.nearby/com.huawei.hwddmp.service.DeviceMonitorService",
+    "com.huawei.android.hwaps/.ApsService",
+    "com.huawei.systemserver/.approuterservice.HwAppRouterService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService32",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService34",
+    "com.huawei.systemmanager/.service.MainService",
+    "com.tencent.weread/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "com.huawei.wallet/.hmspass.service.HMSPassService",
+    "com.huawei.hidisk/com.huawei.android.backup.service.logic.BackupLogicService",
+    "android/com.huawei.android.pushagentproxy.PushService",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.huawei.health/.manager.DaemonService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.MainProcessIPCService",
+    "com.huawei.hiview/com.huawei.faultdetect.HwDropboxLogService",
+    "com.easy.abroad/com.vlite.sdk.server.ServerGuardService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.huawei.systemmanager/.appcontrol.service.SmartControlResidentService",
+    "com.UCMobile/com.uc.browser.core.download.service.RemoteDownloadService",
+    "com.huawei.searchservice/.service.SearchService",
+    "com.huawei.systemmanager/.power.service.BgPowerManagerService",
+    "com.huawei.contacts/com.huawei.ohos.contacts.service.SyncDataServiceAbilityShellService",
+    "com.huawei.systemserver/.ihealth.todaybasestep.HwBaseStepManagerService",
+    "com.huawei.hiai/.awareness.service.AwarenessService",
+    "com.huawei.systemmanager/com.huawei.antivirus.AntiVirusService",
+    "com.huawei.hiview/com.huawei.ncdft.NcDftService",
+    "com.huawei.contentsensor/.ContentSensorService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyPersistService",
+    "com.huawei.android.totemweather/.aidl.WeatherDataService",
+    "com.android.systemui/.aod.HwSystemuiNotificationManagerService",
+    "com.huawei.hiaction/.service.HiActionService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.huawei.nb.service/.KvService",
+    "com.huawei.securityserver/.HwUserIamProxyService",
+    "com.huawei.lbs/.HwLBSService",
+    "com.android.networkstack.inprocess/com.android.server.NetworkStackService",
+    "com.UCMobile/com.uc.framework.fileupdown.download.UCFileDownloadService",
+    "com.huawei.systemmanager/com.huawei.android.security.analyzer.AppBehaviorDataAnalyzerService",
+    "com.huawei.hwid/com.huawei.android.hms.ppskit.PpsCoreService",
+    "com.huawei.systemserver/.easygo.HwEasyGoService",
+    "com.huawei.hsl/.market.service.HslPackageManagerService",
+    "com.huawei.systemmanager/.spacecleanner.service.AppCleanUpService",
+    "com.UCMobile/com.uc.sandbox.SandboxedPrivilegedProcessService0",
+    "com.huawei.hwid/com.huawei.locatorservice.ability.nlpservice.HwNLPService",
+    "com.android.systemui/.HwImageWallpaper",
+    "com.easy.abroad/com.liulishuo.filedownloader.services.FileDownloadService",
+    "com.huawei.msdp/.multimodalsensing.algorithm.MultimodalSensingService",
+    "com.huawei.lbs/.hms.HwHmsService",
+    "com.huawei.systemmanager/com.huawei.securitycenter.mainservice.HwSecService",
+    "com.tencent.mm/.booter.CoreService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.huawei.nearby/com.huawei.hwddmp.service.ServiceProcessEngineService",
+    "com.huawei.systemserver/.ihealth.connectivity.HwStepCounterService",
+    "com.UCMobile/com.taobao.accs.data.MsgDistributeService",
+    "com.huawei.nearby/com.huawei.hwddmp.discover.DiscoverService",
+    "com.huawei.nearby/.NearbyService",
+    "com.huawei.fastapp/.distribute.service.DistributeService",
+    "com.huawei.game.kitserver/.GameKitService",
+    "com.huawei.iaware/.StartUpService",
+    "com.android.systemui/.SystemUIService",
+    "com.UCMobile/anetwork.channel.aidl.NetworkService",
+    "com.tencent.mm/.service.ProcessService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSInnerService",
+    "com.huawei.hwddmp/com.huawei.distributed.data.service.KvStoreDataService",
+    "com.UCMobile/com.alibaba.analytics.AnalyticsService",
+    "com.huawei.ims/.HwImsService",
+    "com.huawei.nearby/com.huawei.hwddmp.trustengine.TrustEngineService",
+    "com.huawei.searchservice/com.huawei.nb.searchmanager.service.DistributionSearchService",
+    "com.huawei.nearby/com.huawei.hwddmp.servicebus.DataBusService",
+    "com.huawei.systemserver/.carrierconfig.HwCarrierConfigService",
+    "com.huawei.systemmanager/com.huawei.permission.HoldService",
+    "com.huawei.nb.service/.SearchConfigService",
+    "com.huawei.securityserver/.HwDeviceGroupAuthService",
+    "com.huawei.powergenie/com.huawei.thermal.adapter.ThermalTraceService",
+    "com.huawei.lbs/com.huawei.rsmc.SmcService",
+    "com.huawei.ohos.famanager/com.huawei.abilitykit.component.ReadMetaService",
+    "com.huawei.recsys/com.huawei.agent.AiDaemonService",
+    "com.huawei.browser/.sandbox.SandboxedProcessService0",
+    "com.huawei.browser/.sandbox.SandboxedProcessService0",
+    "tv.danmaku.bili/tv.danmaku.ijk.media.player.services.IjkMediaPlayerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.huawei.securityserver/.HwFaceRecognizeService",
+    "com.UCMobile/org.android.agoo.accs.AgooService",
+    "tv.danmaku.bili/com.bilibili.biligame.track.service.TrackService",
+    "com.UCMobile/com.uc.browser.statis.RemoteStatService",
+    "com.huawei.nb.service/.DataService",
+    "tv.danmaku.bili/com.bilibili.ad.core.apkdownload.ADDownloadService",
+    "com.UCMobile/mtopsdk.xstate.XStateService",
+    "com.tencent.mm/com.tencent.matrix.lifecycle.supervisor.SupervisorService",
+    "com.huawei.android.totemweather/org.chromium.content.app.SandboxedProcessService0",
+    "com.huawei.hiview/com.huawei.lcagent.service.LogCollectService",
+    "com.android.phone/.FakeBootService",
+    "com.huawei.ohos.systemmanager/.service.FreshCardServiceShellService",
+    "com.UCMobile/com.uc.base.push.accs.AccsPushIntentService",
+    "com.huawei.fastapp/com.huawei.hbs2.sandbox.HbsWebAppLaunchService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreStubService2",
+    "com.huawei.powergenie/.core.CoreService",
+    "com.huawei.securityserver/.dpermission.DistributedPermissionManagerService",
+    "com.huawei.recsys/com.huawei.ohos.recsys.service.DecisionService",
+    "com.UCMobile/com.taobao.orange.service.OrangeApiService",
+    "com.android.location.fused/.FusedLocationService",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.huawei.hwid/com.huawei.hms.opendeviceidentifier.OpenDeviceIdentifierBindService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.PushProcessIPCService",
+    "com.android.networkstack.tethering.inprocess/com.android.networkstack.tethering.TetheringService",
+    "tv.danmaku.bili/com.bilibili.game.service.filedownload.FileDownloadServiceV2",
+    "com.huawei.systemserver/.dmaccessservice.DmAccessService",
+    "com.huawei.systemmanager/com.huawei.android.security.inspection.AppBASMngService",
+    "com.huawei.securityserver/.HwUniKeystoreService",
+    "com.UCMobile/com.taobao.accs.ChannelService",
+    "com.huawei.systemserver/.geofence.GeofenceService",
+    "com.android.systemui/.swing.HwSwingService",
+    "com.huawei.ca/.service.CAService",
+    "com.huawei.powergenie/com.huawei.android.powerkit.PowerKitService",
+    "com.huawei.nb.service/com.huawei.nb.multiusermanager.mainuserservice.MultiUserManagerService",
+    "com.easy.abroad/org.chromium.content.app.SandboxedProcessService0",
+    "com.huawei.fastapp/com.finogeeks.lib.applet.main.PreLaunchService",
+    "com.android.phone/.TelephonyDebugService",
+    "tv.danmaku.bili/androidx.room.MultiInstanceInvalidationService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSCoreService",
+    "com.huawei.systemserver/.connection.ConnService",
+    "com.huawei.hiview/com.huawei.dubai.HwDubaiService",
+    "com.UCMobile/com.uc.browser.core.media.MediaPlayerService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.huawei.systemmanager/com.huawei.antimal.AntiMalJobService",
+    "com.huawei.msdp/.movement.HwMSDPMovementService",
+    "com.android.systemui/com.huawei.hwfloatdockbar.floatball.main.FloatBallService",
+    "com.huawei.securityserver/.hwtrustcirclemanager.TrustCircleManagerService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyCoreService",
+    "com.huawei.browser/.customtab.CustomTabConnectionService",
+    "com.android.bluetooth/.hearingaid.HearingAidService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService33",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService34",
+    "com.huawei.systemmanager/.service.MainService",
+    "com.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "com.huawei.recsys/com.huawei.common.service.DecisionEngineService",
+    "com.huawei.vassistant/.voiceui.service.FakeVoiceInteractionService",
+    "com.huawei.systemmanager/.appcontrol.service.SmartControlResidentService",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.huawei.systemmanager/.power.service.BgPowerManagerService",
+    "com.huawei.hiai/.awareness.service.AwarenessService",
+    "com.huawei.recsys/com.huawei.dis.service.DirectiveInteractionService",
+    "com.android.systemui/.SystemUISecondaryUserService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyPersistService",
+    "com.huawei.lbs/.HwNLPService.HwLbsNLPService",
+    "com.huawei.android.totemweather/.aidl.WeatherDataService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.huawei.lbs/.HwLBSService",
+    "com.huawei.hwid/com.huawei.android.hms.ppskit.PpsCoreService",
+    "com.huawei.systemserver/.easygo.HwEasyGoService",
+    "com.huawei.systemmanager/.spacecleanner.service.AppCleanUpService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.huawei.music/.ability.CardServiceAbilityShellService",
+    "com.huawei.hiviewtunnel/com.huawei.idaptunnel.LogUploadService",
+    "com.huawei.hwid/com.huawei.locatorservice.ability.nlpservice.HwNLPService",
+    "com.android.systemui/.HwImageWallpaper",
+    "com.huawei.lbs/.hms.HwHmsService",
+    "com.huawei.systemmanager/com.huawei.securitycenter.mainservice.HwSecService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.bluetooth/com.huawei.bluetooth.btdevicecircle.HwDeviceManagerService",
+    "com.huawei.nearby/.NearbyService",
+    "com.huawei.lbs/.geocoder.HwGeoCoderService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.huawei.fastapp/.distribute.service.DistributeService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSInnerService",
+    "com.huawei.appmarket/com.huawei.appgallery.coreservice.impl.AGCoreService",
+    "com.huawei.systemmanager/com.huawei.permission.HoldService",
+    "com.huawei.lbs/com.huawei.rsmc.SmcService",
+    "com.huawei.ohos.famanager/com.huawei.abilitykit.component.ReadMetaService",
+    "com.huawei.recsys/com.huawei.common.service.Decision",
+    "com.huawei.android.totemweather/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.phone/.FakeBootService",
+    "com.huawei.fastapp/com.huawei.hbs2.sandbox.HbsWebAppLaunchService",
+    "com.huawei.systemserver/.geofence.GeofenceProviderService",
+    "com.huawei.hiai/.nlu.service.NLUService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreStubService2",
+    "com.huawei.recsys/com.huawei.ohos.recsys.service.DecisionService",
+    "com.huawei.music/.desktopcard.CardReceiverService",
+    "com.huawei.systemserver/.geofence.GeofenceService",
+    "com.huawei.ca/.service.CAService",
+    "com.huawei.fastapp/com.finogeeks.lib.applet.main.PreLaunchService",
+    "com.huawei.android.launcher/.quickstep.TouchInteractionService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSCoreService",
+    "com.huawei.airlink/.AirLinkService",
+    "com.huawei.intelligent/.remoteservice.LauncherOverlayService"
+  ],
+  "width": 2800,
+  "height": 1840,
+  "views": [
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        65
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1840*2800",
+      "signature": "[class]android.widget.FrameLayout[resource_id][text][enabled,,]",
+      "view_str": "7c3a06c62955d41f23559c38847fd66e",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1840*2800",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "e1981524e1a692a72716c4c5427d914a",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          72
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1840*2728",
+      "signature": "[class]android.widget.FrameLayout[resource_id][text][enabled,,]",
+      "view_str": "c11dc3cef6afca03f4b0a9708740272a",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          72
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1840*2728",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/action_bar_root[text][enabled,,]",
+      "view_str": "a09da6b363047231a5b414170d26e02c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/action_bar_root"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          72
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1840*2728",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text][enabled,,]",
+      "view_str": "b6d7e9e7759aeb52eb3acc637a34f1e7",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          72
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/main_coordinator",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1840*2728",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/main_coordinator[text][enabled,,]",
+      "view_str": "493cca3c4df1a1ae7787133814664277",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/main_coordinator"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          72
+        ],
+        [
+          1840,
+          216
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/main_menu",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1840*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/main_menu[text][enabled,,]",
+      "view_str": "ed4a3a93777e6fcea87b8c5f44369171",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/main_menu"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          36,
+          72
+        ],
+        [
+          1804,
+          216
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_app_bar_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "1768*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/top_app_bar_layout[text][enabled,,]",
+      "view_str": "b1b7de6ac94dedc3193b9413b833270d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/top_app_bar_layout"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9,
+        10,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          36,
+          90
+        ],
+        [
+          1804,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_toolbar_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "1768*108",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_holder[text][enabled,,]",
+      "view_str": "e20b096969b1695cda2c029bfb75755a",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Back",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          36,
+          90
+        ],
+        [
+          126,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_toolbar_search_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "90*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search_icon[text][enabled,,]",
+      "view_str": "c66d0e5044b04a5c81b31185fd9397ae",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          126,
+          90
+        ],
+        [
+          1200,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_toolbar_search",
+      "checked": false,
+      "text": "utg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "1074*108",
+      "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search[text]utg[enabled,,]",
+      "view_str": "4bb775c05adda928950f51fba0cfca3b",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1200,
+          90
+        ],
+        [
+          1795,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "595*108",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar[text][enabled,,]",
+      "view_str": "805d236878613f0ea2a6787c6856ce27",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1254,
+          90
+        ],
+        [
+          1777,
+          198
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "523*108",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id][text][enabled,,]",
+      "view_str": "f12fc78d8df18e02c1e0ab4459986d3e",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Sort by",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1254,
+          90
+        ],
+        [
+          1362,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/sort",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/sort[text][enabled,,]",
+      "view_str": "82076b186e9e3715c59f897e8229b170",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/sort"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Filter",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1362,
+          90
+        ],
+        [
+          1470,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/filter",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 14,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/filter[text][enabled,,]",
+      "view_str": "e74c2216ce970e21375be8e05fe4e15c",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/filter"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Settings",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1470,
+          90
+        ],
+        [
+          1578,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/settings",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 15,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/settings[text][enabled,,]",
+      "view_str": "b8952a802629ce1d62193675ffadf579",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/settings"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "About",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1578,
+          90
+        ],
+        [
+          1686,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/about",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 16,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/about[text][enabled,,]",
+      "view_str": "a0a6f6748b658d8e4d260d39b17f3e44",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/about"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "More options",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1686,
+          90
+        ],
+        [
+          1777,
+          198
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 17,
+      "size": "91*108",
+      "signature": "[class]android.widget.ImageView[resource_id][text][enabled,,]",
+      "view_str": "e1fe7982e95e7c5df32dacba5d66841a",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        50,
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          216
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/main_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 18,
+      "size": "1840*2584",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/main_holder[text][enabled,,]",
+      "view_str": "9cb9f952458fe13288bd792211a5f929",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/main_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20,
+        30,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/view_pager",
+      "checked": false,
+      "text": null,
+      "class": "p4.i",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "1840*2440",
+      "signature": "[class]p4.i[resource_id]com.simplemobiletools.contacts.pro:id/view_pager[text][enabled,,]",
+      "view_str": "4f9265c16175aacec76b30ed9bee0384",
+      "content_free_signature": "[class]p4.i[resource_id]com.simplemobiletools.contacts.pro:id/view_pager"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/contacts_fragment",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "1840*2440",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/contacts_fragment[text][enabled,,]",
+      "view_str": "c2bf79ce7617c61df78386f8aacdd3c0",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/contacts_fragment"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22,
+        23,
+        24,
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          216
+        ],
+        [
+          1840,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_wrapper",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "1840*206",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper[text][enabled,,]",
+      "view_str": "96bb19e5935dc07a3dafe2e07afc4daf",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          216
+        ],
+        [
+          1840,
+          301
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder",
+      "checked": false,
+      "text": "No contacts found",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "1840*85",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder[text]No contacts found[enabled,,]",
+      "view_str": "1f9bbae95f0a915ffda040744fa347dc",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          777,
+          301
+        ],
+        [
+          1062,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder_2",
+      "checked": false,
+      "text": "Change filter",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 23,
+      "size": "285*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2[text]Change filter[enabled,,]",
+      "view_str": "e9fc71373d539277d658e9fbca2a47db",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1606,
+          216
+        ],
+        [
+          1732,
+          324
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 24,
+      "size": "126*108",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb[text][enabled,,]",
+      "view_str": "65dbc348f4f2e8f5e9b0959553838429",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26,
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1669,
+          279
+        ],
+        [
+          1669,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "0*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb[text][enabled,,]",
+      "view_str": "8bf5ae45edcc90791a5906b7a1fd104b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1669,
+          279
+        ],
+        [
+          1669,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "0*0",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text[text][enabled,,]",
+      "view_str": "a0f165205149099287d581a55de7d5ea",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1669,
+          279
+        ],
+        [
+          1669,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 27,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon[text][enabled,,]",
+      "view_str": "2b939a5a5db78b94641e73380503da13",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1768,
+          216
+        ],
+        [
+          1840,
+          324
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/letter_fastscroller",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 28,
+      "size": "72*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller[text][enabled,,]",
+      "view_str": "7ce521e32b248e85bd982ac491face5f",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Create new contact",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1678,
+          2494
+        ],
+        [
+          1804,
+          2620
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_fab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 29,
+      "size": "126*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab[text][enabled,,]",
+      "view_str": "ae2403fd9eaf5b2397535a8d3888656b",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31,
+        39
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1840,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/favorites_fragment",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 30,
+      "size": "0*2440",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/favorites_fragment[text][enabled,,]",
+      "view_str": "90638e94ed8699e5b3771d360642b21a",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/favorites_fragment"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32,
+        33,
+        34,
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1840,
+          216
+        ],
+        [
+          1840,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_wrapper",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "0*206",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper[text][enabled,,]",
+      "view_str": "75cda428b09a38b5af430f1725af8ebe",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1840,
+          216
+        ],
+        [
+          1840,
+          301
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder",
+      "checked": false,
+      "text": "Seems like you haven't added any favorite contacts yet.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "0*85",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder[text]None[enabled,,]",
+      "view_str": "1c7e2eb2db97e476dbf70c8778bc884f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2614,
+          301
+        ],
+        [
+          1840,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder_2",
+      "checked": false,
+      "text": "Add favorites",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 33,
+      "size": "-774*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2[text]Add favorites[enabled,,]",
+      "view_str": "c866dd739fff74044784bbc5198eb68e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        35
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          3446,
+          216
+        ],
+        [
+          1840,
+          324
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 34,
+      "size": "-1606*108",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb[text][enabled,,]",
+      "view_str": "91510b1c6e8ac195dbc1762c1164d5b9",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller_thumb"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36,
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          3509,
+          279
+        ],
+        [
+          1840,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "-1669*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb[text][enabled,,]",
+      "view_str": "d4f2c9ce0bac039f919a5f5cf5b69b24",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3509,
+          279
+        ],
+        [
+          1840,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "-1669*0",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text[text][enabled,,]",
+      "view_str": "d6a84fc93c6158c75b975f505d294827",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_text"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3509,
+          279
+        ],
+        [
+          1840,
+          279
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 37,
+      "size": "-1669*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon[text][enabled,,]",
+      "view_str": "bf52f74b6c0805eaed4f7350447e352e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/fast_scroller_thumb_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3608,
+          216
+        ],
+        [
+          1840,
+          324
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/letter_fastscroller",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 38,
+      "size": "-1768*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller[text][enabled,,]",
+      "view_str": "14ad84beee191d3c2a07d888d60cc981",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/letter_fastscroller"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Add favorites",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3518,
+          2494
+        ],
+        [
+          1840,
+          2620
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_fab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 39,
+      "size": "-1678*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab[text][enabled,,]",
+      "view_str": "5b0db896db7b60ae58cefb0c8c033722",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41,
+        49
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          3680,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/groups_fragment",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 40,
+      "size": "-1840*2440",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/groups_fragment[text][enabled,,]",
+      "view_str": "6a8cb46c095d2c9c915eed37b04cf381",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.simplemobiletools.contacts.pro:id/groups_fragment"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42,
+        47,
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          3680,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_wrapper",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "-1840*2440",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper[text][enabled,,]",
+      "view_str": "a6c7c26cc4106800c82a48c3413a5083",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_wrapper"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        43,
+        44,
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          3680,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_fastscroller",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "-1840*2440",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fastscroller[text][enabled,,]",
+      "view_str": "2efd6a2410570f91c6d4993bd5707222",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fastscroller"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3680,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_list",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 43,
+      "size": "-1840*2440",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_list[text][enabled,,]",
+      "view_str": "0a11500858947a68bfab1ef6f663f4cf",
+      "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_list"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          5425,
+          268
+        ],
+        [
+          1840,
+          268
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fastscrollPopupTV",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 44,
+      "size": "-3585*0",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fastscrollPopupTV[text][enabled,,]",
+      "view_str": "6db7bb951a80872c1d71c102af06bd5c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fastscrollPopupTV"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          5461,
+          216
+        ],
+        [
+          1840,
+          2656
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/trackView",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 45,
+      "size": "-3621*2440",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/trackView[text][enabled,,]",
+      "view_str": "a1835e0c2f6af6da5293cb924bad6386",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/trackView"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "handleImage",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          5491,
+          261
+        ],
+        [
+          1840,
+          261
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/thumbIV",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "-3651*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/thumbIV[text][enabled,,]",
+      "view_str": "995adcb8e9887625a0b76ee0ce1fe18c",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/thumbIV"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          3680,
+          216
+        ],
+        [
+          1840,
+          301
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder",
+      "checked": false,
+      "text": "There are no contact groups on the device",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 47,
+      "size": "-1840*85",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder[text]There are no contact groups on the device[enabled,,]",
+      "view_str": "a4dcd825b93c810571ece7543359c1f5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          4456,
+          301
+        ],
+        [
+          1840,
+          422
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_placeholder_2",
+      "checked": false,
+      "text": "Create group",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 48,
+      "size": "-2616*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2[text]Create group[enabled,,]",
+      "view_str": "22c66ef093249ddbb5207c0e17553a17",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/fragment_placeholder_2"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Create group",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          5358,
+          2494
+        ],
+        [
+          1840,
+          2620
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_fab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 49,
+      "size": "-3518*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab[text][enabled,,]",
+      "view_str": "624664491cc9f451d3e1819291e0c788",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Dialpad",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          853,
+          2485
+        ],
+        [
+          988,
+          2620
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/main_dialpad_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 50,
+      "size": "135*135",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/main_dialpad_button[text][enabled,,]",
+      "view_str": "44c3e31a3041f6d36bd4deff70660b19",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/main_dialpad_button"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2656
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/main_tabs_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.HorizontalScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 51,
+      "size": "1840*144",
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]com.simplemobiletools.contacts.pro:id/main_tabs_holder[text][enabled,,]",
+      "view_str": "f3749c15438ab3e20e4276e3c10b8963",
+      "content_free_signature": "[class]android.widget.HorizontalScrollView[resource_id]com.simplemobiletools.contacts.pro:id/main_tabs_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        57,
+        61
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2656
+        ],
+        [
+          1840,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "1840*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "5ae2d7c6e407722d2a7de2494289a4fa",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        54
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          413,
+          2656
+        ],
+        [
+          751,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "338*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,selected]",
+      "view_str": "cc6c0fdd1f7308e1a2b2acb97abd25cf",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        55,
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          535,
+          2683
+        ],
+        [
+          628,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 54,
+      "size": "93*117",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder[text][enabled,,selected]",
+      "view_str": "fb4d25300d2197eba639f18c040ea080",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          550,
+          2683
+        ],
+        [
+          613,
+          2746
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 55,
+      "size": "63*63",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon[text][enabled,,selected]",
+      "view_str": "cd59af816e2ab62b5302c73c81ce8bb6",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          535,
+          2746
+        ],
+        [
+          628,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_label",
+      "checked": false,
+      "text": "Contacts",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 56,
+      "size": "93*54",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label[text]Contacts[enabled,,selected]",
+      "view_str": "90d0a66cecf2931bac53acdb80f5cabd",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        58
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          751,
+          2656
+        ],
+        [
+          1089,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 57,
+      "size": "338*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "03b2a728d9d3d62f91a46e020f71a302",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        59,
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          871,
+          2683
+        ],
+        [
+          968,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "97*117",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder[text][enabled,,]",
+      "view_str": "e7307dc9dfe85535f40e8cf91905b188",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          888,
+          2683
+        ],
+        [
+          951,
+          2746
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 58,
+      "temp_id": 59,
+      "size": "63*63",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon[text][enabled,,]",
+      "view_str": "c5867fa583d2dc5ea08d1c14ef5be62e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          871,
+          2746
+        ],
+        [
+          968,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_label",
+      "checked": false,
+      "text": "Favorites",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 58,
+      "temp_id": 60,
+      "size": "97*54",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label[text]Favorites[enabled,,]",
+      "view_str": "af283a174edf448a78863bf7844e1a8a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        62
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1089,
+          2656
+        ],
+        [
+          1427,
+          2800
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 61,
+      "size": "338*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "03b2a728d9d3d62f91a46e020f71a302",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        63,
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1220,
+          2683
+        ],
+        [
+          1296,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 62,
+      "size": "76*117",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder[text][enabled,,]",
+      "view_str": "e17b74975aa8c5cc7cf16ae3c243bfba",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_holder"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1226,
+          2683
+        ],
+        [
+          1289,
+          2746
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 63,
+      "size": "63*63",
+      "signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon[text][enabled,,]",
+      "view_str": "c5867fa583d2dc5ea08d1c14ef5be62e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_icon"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1220,
+          2746
+        ],
+        [
+          1296,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/tab_item_label",
+      "checked": false,
+      "text": "Groups",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 64,
+      "size": "76*54",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label[text]Groups[enabled,,]",
+      "view_str": "a5e3ac3756fdc5672838b6cdbb9ae4d1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.contacts.pro:id/tab_item_label"
+    },
+    {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1840,
+          72
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 65,
+      "size": "1840*72",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text][enabled,,]",
+      "view_str": "e460c300e44477510f592adc1b2d676c",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+[['Change photo', 8], ['Toggle favorite', 9], ['Change photo', 10], ['utg', 12], ['Surname', 13], ['Number', 17], ['Mobile', 18], ['Email', 23], ['Home', 24], ['Address', 29], ['Home', 30], ['Unknown', 35], ['Birthday', 36], ['Notes', 39], ['No groups', 43], ['Phone', 46], ['Save', 52], ['More options', 53]]

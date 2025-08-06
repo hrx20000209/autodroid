@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_151248",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          515,
+          393
+        ],
+        [
+          696,
+          501
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.gallery.pro:id/breadcrumb_text",
+      "checked": false,
+      "text": "> Pictures",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 18,
+      "size": "181*108",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/breadcrumb_text[text]> Pictures[enabled,,]",
+      "view_str": "aa922e7f7ec8ba6f424d6fb0a8343286",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/breadcrumb_text"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73",
+  "stop_state": "efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73",
+  "event_str": "TouchEvent(state=efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73, view=aa922e7f7ec8ba6f424d6fb0a8343286(MainActivity/TextView-> Pictures))"
+}

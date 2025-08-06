@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_165742",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.gallery.pro"
+  },
+  "start_state": "e647ec74e8f5251acc4d4c29e626d8ee4d1e908c0b4a313541b64a5a185c0846",
+  "stop_state": "8872d53cc2a385ac74fc5936df7f179b45ad22e741301c5d0d69e8446e1f3721",
+  "event_str": "KillAppEvent()"
+}

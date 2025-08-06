@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_143635",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Create new contact",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1678,
+          2494
+        ],
+        [
+          1804,
+          2620
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/fragment_fab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 29,
+      "size": "126*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab[text][enabled,,]",
+      "view_str": "c113604c3d9f36d88207aab5760c534d",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.contacts.pro:id/fragment_fab"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "6d73ed1433a917b8f724a439354099cf206d46e4de43743fd396ae1c4b406656",
+  "stop_state": "9bd88357667ba5545339e7aedb017a2a013c4138df65bd170bb23f420f793893",
+  "event_str": "TouchEvent(state=6d73ed1433a917b8f724a439354099cf206d46e4de43743fd396ae1c4b406656, view=c113604c3d9f36d88207aab5760c534d(MainActivity/ImageButton-))"
+}

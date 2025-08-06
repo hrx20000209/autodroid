@@ -1,0 +1,38 @@
+Metadata-Version: 2.4
+Name: droidbot
+Version: 1.0.2b4
+Summary: A lightweight UI-guided test input generator for Android.
+Home-page: https://github.com/honeynet/droidbot
+Download-URL: https://github.com/honeynet/droidbot/tarball/1.0.2b4
+Author: Yuanchun Li
+Author-email: pkulyc@gmail.com
+License: MIT
+Keywords: testing,monkey,exerciser
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Testing
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+License-File: LICENSE
+Requires-Dist: androguard>=3.4.0a1
+Requires-Dist: networkx
+Requires-Dist: Pillow
+Requires-Dist: requests
+Requires-Dist: pyvis
+Requires-Dist: treelib
+Requires-Dist: pyyaml
+Requires-Dist: torch
+Requires-Dist: InstructorEmbedding
+Requires-Dist: sentence_transformers
+Requires-Dist: pytesseract
+Requires-Dist: openai
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

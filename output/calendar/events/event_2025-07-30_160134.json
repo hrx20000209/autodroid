@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-30_160134",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.calendar.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Save",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1714,
+          90
+        ],
+        [
+          1822,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.calendar.pro:id/save",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.calendar.pro:id/save[text][enabled,,]",
+      "view_str": "ca679c6682fa41f3f98b9278da59eac5",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.calendar.pro:id/save"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "b7e445cee0aa90b004c343a4a53c7084b96da0594653b5a4992117bf89fa096e",
+  "stop_state": "777e919f4b1c62b5cbe2a7ce3f49c57af12f182ff78324f43f1a18262353ac2a",
+  "event_str": "TouchEvent(state=b7e445cee0aa90b004c343a4a53c7084b96da0594653b5a4992117bf89fa096e, view=ca679c6682fa41f3f98b9278da59eac5(EventActivity/Button-))"
+}

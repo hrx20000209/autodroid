@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_143725",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Save",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1623,
+          90
+        ],
+        [
+          1731,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/save",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/save[text][enabled,,]",
+      "view_str": "f42d5448909ad939e6ab076da005f9bd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.simplemobiletools.contacts.pro:id/save"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "bfd9b9f8d425bcd3d117c9c85463afd29c097d41c4a81c3a5eac93b7d7d466f7",
+  "stop_state": "0893eeceb9a722f0c5252e67b14140c802b5f6e0eb87193388dcc6a164758533",
+  "event_str": "TouchEvent(state=bfd9b9f8d425bcd3d117c9c85463afd29c097d41c4a81c3a5eac93b7d7d466f7, view=f42d5448909ad939e6ab076da005f9bd(EditContactActivity/Button-))"
+}

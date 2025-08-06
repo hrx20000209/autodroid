@@ -1,0 +1,51 @@
+{
+  "tag": "2025-07-30_160111",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.calendar.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          36,
+          252
+        ],
+        [
+          1804,
+          365
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.calendar.pro:id/event_title",
+      "checked": false,
+      "text": "Title",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1768*113",
+      "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.calendar.pro:id/event_title[text]Title[enabled,,]",
+      "view_str": "43f989c9a42b4813290f2154826c9538",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.calendar.pro:id/event_title"
+    },
+    "x": null,
+    "y": null,
+    "text": "laundry"
+  },
+  "start_state": "6cfbda2b0d563347e875b7e1223a676b6feb003a9c251b2827dd299a32de8107",
+  "stop_state": "b7e445cee0aa90b004c343a4a53c7084b96da0594653b5a4992117bf89fa096e",
+  "event_str": "SetTextEvent(state=6cfbda2b0d563347e875b7e1223a676b6feb003a9c251b2827dd299a32de8107, view=43f989c9a42b4813290f2154826c9538(EventActivity/EditText-Title), text=laundry)"
+}

@@ -1,0 +1,1 @@
+[['New features available', 19], ['AppGallery,New features available', 19], ['2:27 pm', 20], ['Update to try them out.', 21], ['6:20', 53], ['Thu, 31 Jul', 56], ['车身凹陷不用愁', 60], ['hrx', 65], ['用户选择器', 61], ['Swipe up to unlock', 68], ['手电筒', 70], ['Camera', 72], ['Ringer silent.', 93], ['WLAN signal full.', 97], ['Battery level is 60%.', 106]]

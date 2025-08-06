@@ -1,0 +1,245 @@
+records:
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    read contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 1
+  Input: utg
+  State: '<button id=0 text=''Search''></button>
+
+    <input id=1>Search</input>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''Filter''></button>
+
+    <button id=4 text=''Settings''></button>
+
+    <button id=5 text=''About''></button>
+
+    <button id=6 text=''More options''></button>
+
+    <p id=7>No contacts found</p>
+
+    <button id=8>Change filter</button>
+
+    <button id=9 text=''Create new contact''></button>
+
+    <button id=10 text=''Dialpad''></button>
+
+    <p id=11>Contacts</p>
+
+    <button id=12>Favorites</button>
+
+    <button id=13>Groups</button>
+
+    <button id=14>go back</button>'
+  state_str:
+  - 03f3df31e07e6bbbe1cf243a6d5e73ac2d356e14e9113a7d8303d26605ae4434
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0>Allow Contacts to access your contacts?<br>This lets the app:
+    modify contacts<br>DENY<br>ALLOW</button>
+
+    <button id=1>go back</button>'
+  state_str: 61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4
+- Choice: 8
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Settings''></button>
+
+    <button id=4 text=''About''></button>
+
+    <button id=5 text=''More options''></button>
+
+    <p id=6>No contacts found</p>
+
+    <button id=7>Change filter</button>
+
+    <button id=8 text=''Create new contact''></button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Groups</button>
+
+    <button id=13>go back</button>'
+  state_str:
+  - 6d73ed1433a917b8f724a439354099cf206d46e4de43743fd396ae1c4b406656
+- Choice: 3
+  Input: utg
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <button id=2 text=''Change photo''></button>
+
+    <input id=3>First name</input>
+
+    <input id=4>Surname</input>
+
+    <input id=5>Number</input>
+
+    <button id=6>Mobile</button>
+
+    <input id=7>Email</input>
+
+    <button id=8>Home</button>
+
+    <input id=9>Address</input>
+
+    <button id=10>Home</button>
+
+    <button id=11>Unknown</button>
+
+    <button id=12>Birthday</button>
+
+    <input id=13>Notes</input>
+
+    <button id=14>No groups</button>
+
+    <button id=15>Phone</button>
+
+    <button id=16 text=''Save''></button>
+
+    <button id=17 text=''More options''></button>
+
+    <button id=18>go back</button>'
+  state_str: 9bd88357667ba5545339e7aedb017a2a013c4138df65bd170bb23f420f793893
+- Choice: 16
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <button id=2 text=''Change photo''></button>
+
+    <input id=3>utg</input>
+
+    <input id=4>Surname</input>
+
+    <input id=5>Number</input>
+
+    <button id=6>Mobile</button>
+
+    <input id=7>Email</input>
+
+    <button id=8>Home</button>
+
+    <input id=9>Address</input>
+
+    <button id=10>Home</button>
+
+    <button id=11>Unknown</button>
+
+    <button id=12>Birthday</button>
+
+    <input id=13>Notes</input>
+
+    <button id=14>No groups</button>
+
+    <button id=15>Phone</button>
+
+    <button id=16 text=''Save''></button>
+
+    <button id=17 text=''More options''></button>
+
+    <button id=18>go back</button>'
+  state_str: bfd9b9f8d425bcd3d117c9c85463afd29c097d41c4a81c3a5eac93b7d7d466f7
+step_num: 18
+task_name: utg

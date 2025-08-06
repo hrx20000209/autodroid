@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_181803",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.voicerecorder"
+  },
+  "start_state": "119d0e6896c7bc28614cd7ad0fcd16d5405d65cd1acda21cbe8cc1e205858548",
+  "stop_state": "aaa380fd4a5a66831d9030d872266a3c54d00faf09bcf4e7ad6041a45f47240a",
+  "event_str": "KillAppEvent()"
+}

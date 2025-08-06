@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_181903",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.voicerecorder",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          533,
+          2746
+        ],
+        [
+          630,
+          2800
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.voicerecorder:id/tab_item_label",
+      "checked": false,
+      "text": "Recorder",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 38,
+      "temp_id": 40,
+      "size": "97*54",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.voicerecorder:id/tab_item_label[text]Recorder[enabled,,selected]",
+      "view_str": "fbbff252d5f689c54f85392cd05d9ae2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.voicerecorder:id/tab_item_label"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08",
+  "stop_state": "0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08",
+  "event_str": "TouchEvent(state=0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08, view=fbbff252d5f689c54f85392cd05d9ae2(MainActivity/TextView-Recorder))"
+}

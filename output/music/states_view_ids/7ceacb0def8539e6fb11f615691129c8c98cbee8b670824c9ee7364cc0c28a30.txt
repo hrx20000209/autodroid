@@ -1,0 +1,1 @@
+[['Search', 9], ['Search', 10], ['Sort by', 13], ['Equalizer', 14], ['Settings', 15], ['About', 16], ['More options', 17], ['All tracks', 25], ['1 Track', 26], ['Dream It Possible • Delacey', 76], ['Playlists', 83], ['Folders', 87], ['Artists', 91], ['Albums', 95], ['Tracks', 99]]

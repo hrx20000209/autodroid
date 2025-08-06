@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-30_155957",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.huawei.android.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Calendar",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          303,
+          1705
+        ],
+        [
+          489,
+          1856
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 51,
+      "temp_id": 53,
+      "size": "186*151",
+      "signature": "[class]android.widget.TextView[resource_id][text][enabled,,]",
+      "view_str": "df476eee73f09b1d3a38ed8987dbf578",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "24a4d0adc0acae1fc0a513eb645510cef34ab82e5af8733b1a50f2b8edd4b625",
+  "stop_state": "d4aff14a53092606f68855d704e32835a5bdde63f16b94ce79d1ea5b937f1d30",
+  "event_str": "TouchEvent(state=24a4d0adc0acae1fc0a513eb645510cef34ab82e5af8733b1a50f2b8edd4b625, view=df476eee73f09b1d3a38ed8987dbf578(UniHomeLauncher/TextView-))"
+}

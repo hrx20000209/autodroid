@@ -1,0 +1,1 @@
+[['Camera', 6], ['Camera', 7], ['Installation source: PC tools', 9], ['Installing...', 12], ['CANCEL', 14]]

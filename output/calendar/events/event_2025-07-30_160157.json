@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-30_160157",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.calendar.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1329,
+          1573
+        ],
+        [
+          1473,
+          1681
+        ]
+      ],
+      "resource_id": "android:id/button1",
+      "checked": false,
+      "text": "OK",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 15,
+      "size": "144*108",
+      "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+      "view_str": "51311490d08189f37bbcb4a8472f4a64",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "777e919f4b1c62b5cbe2a7ce3f49c57af12f182ff78324f43f1a18262353ac2a",
+  "stop_state": "d4aff14a53092606f68855d704e32835a5bdde63f16b94ce79d1ea5b937f1d30",
+  "event_str": "TouchEvent(state=777e919f4b1c62b5cbe2a7ce3f49c57af12f182ff78324f43f1a18262353ac2a, view=51311490d08189f37bbcb4a8472f4a64(EventActivity/Button-OK))"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_145738",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          461,
+          527
+        ],
+        [
+          1482,
+          576
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.gallery.pro:id/list_item_name",
+      "checked": false,
+      "text": "hiddenAlbum",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "1021*49",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/list_item_name[text]hiddenAlbum[enabled,,]",
+      "view_str": "7125d4b2ba609a345de41803fbfde172",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.gallery.pro:id/list_item_name"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73",
+  "stop_state": "461ff2f75a2b9ed66207cd932e2eb37a4b2f5f46bc9f5fc55e6c2c5b8af881f4",
+  "event_str": "TouchEvent(state=efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73, view=7125d4b2ba609a345de41803fbfde172(MainActivity/TextView-hiddenAlbu))"
+}

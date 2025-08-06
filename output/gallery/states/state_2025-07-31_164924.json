@@ -1,0 +1,5501 @@
+{
+  "tag": "2025-07-31_164924",
+  "state_str": "12c2f168b78794c9459d43635751e6c49aed5e5d3d3fa9e3c127025b8411502d",
+  "state_str_content_free": "1c42237ffa47457d9ff339e3e1281a26",
+  "foreground_activity": "com.huawei.camera/.controller.CameraActivity",
+  "activity_stack": [
+    "com.huawei.camera/.controller.CameraActivity"
+  ],
+  "background_services": [
+    "com.huawei.msdp/.devicestatus.HwMSDPDeviceStatusService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyCoreService",
+    "com.huawei.systemmanager/com.huawei.smartcharge.SmartChargeService",
+    "com.huawei.systemserver/.emcom.EmcomManagerService",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.huawei.securityserver/.securityguard.HwSecGuardService",
+    "com.huawei.securityserver/.HwSecurityService",
+    "com.huawei.security.hsdr/.HsdrService",
+    "com.huawei.browser/.customtab.CustomTabConnectionService",
+    "tv.danmaku.bili/com.bilibili.game.service.DownloadService",
+    "com.android.bluetooth/.hearingaid.HearingAidService",
+    "com.huawei.searchservice/com.huawei.nb.searchmanager.service.SearchService",
+    "com.huawei.nearby/com.huawei.hwddmp.service.DeviceMonitorService",
+    "com.huawei.android.hwaps/.ApsService",
+    "com.huawei.systemserver/.approuterservice.HwAppRouterService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService32",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService34",
+    "com.huawei.systemmanager/.service.MainService",
+    "com.tencent.weread/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "com.huawei.hidisk/com.huawei.android.backup.service.logic.BackupLogicService",
+    "android/com.huawei.android.pushagentproxy.PushService",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.easy.abroad/com.vlite.sdk.proxy.ComponentProxyStubs",
+    "com.huawei.health/.manager.DaemonService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.MainProcessIPCService",
+    "com.huawei.hiview/com.huawei.faultdetect.HwDropboxLogService",
+    "com.easy.abroad/com.vlite.sdk.server.ServerGuardService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.huawei.systemmanager/.appcontrol.service.SmartControlResidentService",
+    "com.huawei.searchservice/.service.SearchService",
+    "com.huawei.systemmanager/.power.service.BgPowerManagerService",
+    "com.huawei.contacts/com.huawei.ohos.contacts.service.SyncDataServiceAbilityShellService",
+    "com.huawei.systemserver/.ihealth.todaybasestep.HwBaseStepManagerService",
+    "com.huawei.hiai/.awareness.service.AwarenessService",
+    "com.huawei.systemmanager/com.huawei.antivirus.AntiVirusService",
+    "com.huawei.hiview/com.huawei.ncdft.NcDftService",
+    "com.huawei.contentsensor/.ContentSensorService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyPersistService",
+    "com.huawei.android.totemweather/.aidl.WeatherDataService",
+    "com.huawei.hiaction/.service.HiActionService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.huawei.nb.service/.KvService",
+    "com.huawei.securityserver/.HwUserIamProxyService",
+    "com.huawei.lbs/.HwLBSService",
+    "com.android.networkstack.inprocess/com.android.server.NetworkStackService",
+    "com.huawei.systemmanager/com.huawei.android.security.analyzer.AppBehaviorDataAnalyzerService",
+    "com.huawei.hwid/com.huawei.android.hms.ppskit.PpsCoreService",
+    "com.huawei.systemserver/.easygo.HwEasyGoService",
+    "com.huawei.systemmanager/.spacecleanner.service.AppCleanUpService",
+    "com.huawei.hwid/com.huawei.locatorservice.ability.nlpservice.HwNLPService",
+    "com.android.systemui/.HwImageWallpaper",
+    "com.easy.abroad/com.liulishuo.filedownloader.services.FileDownloadService",
+    "com.huawei.msdp/.multimodalsensing.algorithm.MultimodalSensingService",
+    "com.huawei.lbs/.hms.HwHmsService",
+    "com.huawei.systemmanager/com.huawei.securitycenter.mainservice.HwSecService",
+    "com.tencent.mm/.booter.CoreService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.huawei.nearby/com.huawei.hwddmp.service.ServiceProcessEngineService",
+    "com.huawei.systemserver/.ihealth.connectivity.HwStepCounterService",
+    "com.huawei.nearby/com.huawei.hwddmp.discover.DiscoverService",
+    "com.huawei.nearby/.NearbyService",
+    "com.huawei.fastapp/.distribute.service.DistributeService",
+    "com.huawei.game.kitserver/.GameKitService",
+    "com.huawei.iaware/.StartUpService",
+    "com.android.systemui/.SystemUIService",
+    "com.tencent.mm/.service.ProcessService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.android.systemui/com.huawei.keyguard.MagazineKeyguardService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSInnerService",
+    "com.huawei.hwddmp/com.huawei.distributed.data.service.KvStoreDataService",
+    "com.UCMobile/com.alibaba.analytics.AnalyticsService",
+    "com.huawei.ims/.HwImsService",
+    "com.huawei.nearby/com.huawei.hwddmp.trustengine.TrustEngineService",
+    "com.huawei.searchservice/com.huawei.nb.searchmanager.service.DistributionSearchService",
+    "com.huawei.nearby/com.huawei.hwddmp.servicebus.DataBusService",
+    "com.huawei.systemserver/.carrierconfig.HwCarrierConfigService",
+    "com.huawei.systemmanager/com.huawei.permission.HoldService",
+    "com.huawei.nb.service/.SearchConfigService",
+    "com.huawei.securityserver/.HwDeviceGroupAuthService",
+    "com.huawei.powergenie/com.huawei.thermal.adapter.ThermalTraceService",
+    "com.huawei.lbs/com.huawei.rsmc.SmcService",
+    "com.huawei.recsys/com.huawei.agent.AiDaemonService",
+    "com.huawei.browser/.sandbox.SandboxedProcessService0",
+    "com.huawei.browser/.sandbox.SandboxedProcessService0",
+    "tv.danmaku.bili/tv.danmaku.ijk.media.player.services.IjkMediaPlayerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.huawei.securityserver/.HwFaceRecognizeService",
+    "tv.danmaku.bili/com.bilibili.biligame.track.service.TrackService",
+    "com.huawei.nb.service/.DataService",
+    "tv.danmaku.bili/com.bilibili.ad.core.apkdownload.ADDownloadService",
+    "com.tencent.mm/com.tencent.matrix.lifecycle.supervisor.SupervisorService",
+    "com.huawei.android.totemweather/org.chromium.content.app.SandboxedProcessService0",
+    "com.huawei.hiview/com.huawei.lcagent.service.LogCollectService",
+    "com.android.phone/.FakeBootService",
+    "com.huawei.ohos.systemmanager/.service.FreshCardServiceShellService",
+    "com.huawei.fastapp/com.huawei.hbs2.sandbox.HbsWebAppLaunchService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreStubService2",
+    "com.huawei.powergenie/.core.CoreService",
+    "com.huawei.securityserver/.dpermission.DistributedPermissionManagerService",
+    "com.android.location.fused/.FusedLocationService",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.tencent.mm/.ipcinvoker.wx_extension.service.PushProcessIPCService",
+    "com.android.networkstack.tethering.inprocess/com.android.networkstack.tethering.TetheringService",
+    "tv.danmaku.bili/com.bilibili.game.service.filedownload.FileDownloadServiceV2",
+    "com.huawei.systemserver/.dmaccessservice.DmAccessService",
+    "com.huawei.systemmanager/com.huawei.android.security.inspection.AppBASMngService",
+    "com.huawei.securityserver/.HwUniKeystoreService",
+    "com.huawei.systemserver/.geofence.GeofenceService",
+    "com.android.systemui/.swing.HwSwingService",
+    "com.huawei.ca/.service.CAService",
+    "com.huawei.powergenie/com.huawei.android.powerkit.PowerKitService",
+    "com.huawei.nb.service/com.huawei.nb.multiusermanager.mainuserservice.MultiUserManagerService",
+    "com.easy.abroad/org.chromium.content.app.SandboxedProcessService0",
+    "com.huawei.fastapp/com.finogeeks.lib.applet.main.PreLaunchService",
+    "com.android.phone/.TelephonyDebugService",
+    "tv.danmaku.bili/androidx.room.MultiInstanceInvalidationService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSCoreService",
+    "com.huawei.systemserver/.connection.ConnService",
+    "com.huawei.hiview/com.huawei.dubai.HwDubaiService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.huawei.systemmanager/com.huawei.antimal.AntiMalJobService",
+    "com.huawei.msdp/.movement.HwMSDPMovementService",
+    "com.android.systemui/com.huawei.hwfloatdockbar.floatball.main.FloatBallService",
+    "com.huawei.securityserver/.hwtrustcirclemanager.TrustCircleManagerService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyCoreService",
+    "com.huawei.browser/.customtab.CustomTabConnectionService",
+    "com.android.bluetooth/.hearingaid.HearingAidService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService33",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreNEStubService34",
+    "com.huawei.systemmanager/.service.MainService",
+    "com.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "com.huawei.recsys/com.huawei.common.service.DecisionEngineService",
+    "com.huawei.vassistant/.voiceui.service.FakeVoiceInteractionService",
+    "com.huawei.systemmanager/.appcontrol.service.SmartControlResidentService",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.huawei.systemmanager/.power.service.BgPowerManagerService",
+    "com.huawei.hiai/.awareness.service.AwarenessService",
+    "com.huawei.photos/com.huawei.gallery.app.GalleryAppSerivce",
+    "com.android.systemui/.SystemUISecondaryUserService",
+    "com.huawei.hwid/com.huawei.hms.fwksdk.service.DummyPersistService",
+    "com.huawei.lbs/.HwNLPService.HwLbsNLPService",
+    "com.huawei.android.totemweather/.aidl.WeatherDataService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.huawei.lbs/.HwLBSService",
+    "com.huawei.hwid/com.huawei.android.hms.ppskit.PpsCoreService",
+    "com.huawei.systemserver/.easygo.HwEasyGoService",
+    "com.huawei.camera/com.huawei.camera2.storageservice.RealStorageService",
+    "com.huawei.systemmanager/.spacecleanner.service.AppCleanUpService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.huawei.hiviewtunnel/com.huawei.idaptunnel.LogUploadService",
+    "com.huawei.hwid/com.huawei.locatorservice.ability.nlpservice.HwNLPService",
+    "com.android.systemui/.HwImageWallpaper",
+    "com.huawei.lbs/.hms.HwHmsService",
+    "com.huawei.systemmanager/com.huawei.securitycenter.mainservice.HwSecService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.bluetooth/com.huawei.bluetooth.btdevicecircle.HwDeviceManagerService",
+    "com.huawei.nearby/.NearbyService",
+    "com.huawei.lbs/.geocoder.HwGeoCoderService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.huawei.fastapp/.distribute.service.DistributeService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSInnerService",
+    "com.huawei.systemmanager/com.huawei.permission.HoldService",
+    "com.huawei.lbs/com.huawei.rsmc.SmcService",
+    "com.huawei.android.totemweather/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.phone/.FakeBootService",
+    "com.huawei.fastapp/com.huawei.hbs2.sandbox.HbsWebAppLaunchService",
+    "com.huawei.systemserver/.geofence.GeofenceProviderService",
+    "com.huawei.hwid/com.huawei.hms.runtimekit.stub.HMSKitCoreStubService2",
+    "com.huawei.systemserver/.geofence.GeofenceService",
+    "com.huawei.ca/.service.CAService",
+    "com.huawei.fastapp/com.finogeeks.lib.applet.main.PreLaunchService",
+    "com.huawei.android.launcher/.quickstep.TouchInteractionService",
+    "com.huawei.hwid/com.huawei.hms.core.service.HMSCoreService",
+    "com.huawei.airlink/.AirLinkService",
+    "com.huawei.intelligent/.remoteservice.LauncherOverlayService"
+  ],
+  "width": 2800,
+  "height": 1840,
+  "views": [
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id][text][enabled,,]",
+      "view_str": "ec9036e5a9d0bbeba93a42dca0525e1c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "43996b2f80ee98d1b478a451bc0e47b0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text][enabled,,]",
+      "view_str": "557927bab1a27c77c4e188b0537a488b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        132,
+        134,
+        135,
+        136,
+        137
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/camera_main_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/camera_main_view[text][enabled,,]",
+      "view_str": "61b53306aa12a34e233fca27809e0f29",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/camera_main_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 16,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        54,
+        59,
+        72,
+        92,
+        120,
+        122,
+        130,
+        131
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/main_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view[text][enabled,,]",
+      "view_str": "baceff70ddd84817c35ceb484b1f613a",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1300
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/big_text_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "0*540",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/big_text_layout[text][enabled,,]",
+      "view_str": "974f62980dd2faa71eef68652442266e",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/big_text_layout"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1552
+        ],
+        [
+          0,
+          1589
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/bottom_big_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "0*37",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/bottom_big_text[text][enabled,,]",
+      "view_str": "d342d52cf4761f3feb1838fcde5bb540",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/bottom_big_text"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        9,
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1300
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/big_text_top_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "0*540",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/big_text_top_area[text][enabled,,]",
+      "view_str": "b76b23272c8bcaf513abf2da00101c32",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/big_text_top_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1300
+        ],
+        [
+          0,
+          1480
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/right_big_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "0*180",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/right_big_text[text][enabled,,]",
+      "view_str": "fe617ab8634799babd0308106f2370dc",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/right_big_text"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1480
+        ],
+        [
+          0,
+          1660
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/center_big_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "0*180",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/center_big_text[text][enabled,,]",
+      "view_str": "7b395919dca7f97c548ca668ef5126dc",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/center_big_text"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1660
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/left_big_text",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 10,
+      "size": "0*180",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/left_big_text[text][enabled,,]",
+      "view_str": "1bb2e29f0ef62fd27fb2736efdafce13",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/left_big_text"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_tab_bar_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 11,
+      "size": "0*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_tab_bar_holder[text][enabled,,]",
+      "view_str": "f6cb5e0032fb99e63079b8ee00924923",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_tab_bar_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/head_black_background",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 12,
+      "size": "0*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/head_black_background[text][enabled,,]",
+      "view_str": "fad59f9d373f035d6bd17a183ecfc633",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/head_black_background"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/full_page_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 13,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/full_page_area[text][enabled,,]",
+      "view_str": "edc4e726ef3615538c522f5f473433ca",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/full_page_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/bubble_tip_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 14,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/bubble_tip_holder[text][enabled,,]",
+      "view_str": "d0124b39d58317ffb3be91ae96bb19fd",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/bubble_tip_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/movie_border",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 15,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/movie_border[text][enabled,,]",
+      "view_str": "5059c64c41d985f7dc19c1e7d5a1645f",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/movie_border"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/bali_sub_screen_thumbnail_view_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 16,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/bali_sub_screen_thumbnail_view_holder[text][enabled,,]",
+      "view_str": "4fd6531338bba8c662838c550d1c6261",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/bali_sub_screen_thumbnail_view_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18,
+        19,
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/main_view_base",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 17,
+      "size": "2800*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_base[text][enabled,,]",
+      "view_str": "721a348af0b89edb21471ea2af2101d2",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_base"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/main_view_base_preview_place_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_base_preview_place_holder[text][enabled,,]",
+      "view_str": "1e47b00195d910efe1d1f3589c50bcce",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_base_preview_place_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          371,
+          164
+        ],
+        [
+          430,
+          164
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/front_camera_animation_gl",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 19,
+      "size": "59*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/front_camera_animation_gl[text][enabled,,]",
+      "view_str": "aedb71379b66d1691599b3a13198c0a7",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/front_camera_animation_gl"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        34,
+        35
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2453,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/capture_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 20,
+      "size": "347*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/capture_container[text][enabled,,]",
+      "view_str": "ab8d031aacd4a72fc9ec127ce151c87b",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/capture_container"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2471,
+          0
+        ],
+        [
+          2602,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/indicator_bar_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "131*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/indicator_bar_parent[text][enabled,,]",
+      "view_str": "a4bf071595f53738463b6baee249a6bd",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/indicator_bar_parent"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2471,
+          0
+        ],
+        [
+          2602,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/indicator_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "131*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/indicator_bar[text][enabled,,]",
+      "view_str": "b032d3b2c6f55831175eece5f071ad70",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/indicator_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24,
+        32,
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2471,
+          0
+        ],
+        [
+          2602,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/mode_switcher",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "131*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/mode_switcher[text][enabled,,]",
+      "view_str": "1e4b26bb16642ebd00a070b07c332a5e",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/mode_switcher"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 7,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          502
+        ],
+        [
+          2523,
+          1619
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/mode_switcher_titles",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "34*1117",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/mode_switcher_titles[text][enabled,,]",
+      "view_str": "b31f8507664a11cfc7a31b8f074fb5b3",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/mode_switcher_titles"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Aperture",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          1399
+        ],
+        [
+          2523,
+          1565
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/wide_aperture_icon",
+      "checked": false,
+      "text": "APERTURE",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "34*166",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/wide_aperture_icon[text]APERTURE[enabled,,]",
+      "view_str": "a78ac5b2687d9e16bacb0eb1a886c8ee",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/wide_aperture_icon"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Night",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          1243
+        ],
+        [
+          2523,
+          1345
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "NIGHT",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "34*102",
+      "signature": "[class]android.widget.TextView[resource_id][text]NIGHT[enabled,,]",
+      "view_str": "f237e6d553793b80d299ee81205af74c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Portrait",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          1031
+        ],
+        [
+          2523,
+          1189
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "PORTRAIT",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 27,
+      "size": "34*158",
+      "signature": "[class]android.widget.TextView[resource_id][text]PORTRAIT[enabled,,]",
+      "view_str": "774ab3dfb3378a630cf3021c905186b7",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Photo",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          863
+        ],
+        [
+          2523,
+          977
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "PHOTO",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 28,
+      "size": "34*114",
+      "signature": "[class]android.widget.TextView[resource_id][text]PHOTO[enabled,,selected]",
+      "view_str": "816857872daabfa466194249c2206d4a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Video",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          706
+        ],
+        [
+          2523,
+          809
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "VIDEO",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 29,
+      "size": "34*103",
+      "signature": "[class]android.widget.TextView[resource_id][text]VIDEO[enabled,,]",
+      "view_str": "7c571f4d765b69fc14ab8e546652c5c3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "More",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2489,
+          556
+        ],
+        [
+          2523,
+          652
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "MORE",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 30,
+      "size": "34*96",
+      "signature": "[class]android.widget.TextView[resource_id][text]MORE[enabled,,]",
+      "view_str": "0f41307576418fba26d4401a55b641e5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2523,
+          502
+        ],
+        [
+          2523,
+          502
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 31,
+      "size": "0*0",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "77964b5967f0d154083a8353473e7a8d",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2532,
+          909
+        ],
+        [
+          2554,
+          931
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/iv_mode_switcher_arrow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 32,
+      "size": "22*22",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/iv_mode_switcher_arrow[text][enabled,,]",
+      "view_str": "8624497144ecc60ae0f0171f055c80f9",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/iv_mode_switcher_arrow"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2554,
+          0
+        ],
+        [
+          2572,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/mode_switcher_ruler",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 33,
+      "size": "18*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/mode_switcher_ruler[text][enabled,,]",
+      "view_str": "7883637eee975d9d55f84009cafbdfe5",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/mode_switcher_ruler"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2585,
+          125
+        ],
+        [
+          2585,
+          125
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/front_camera_animation",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 34,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/front_camera_animation[text][enabled,,]",
+      "view_str": "f50d81a70b0ec58b6431de063a200653",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/front_camera_animation"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36,
+        37,
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          1325
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/footer_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 35,
+      "size": "198*810",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/footer_bar[text][enabled,,]",
+      "view_str": "3ff6e7a521fbf215e1284f85969ead77",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/footer_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          1325
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "198*810",
+      "signature": "[class]android.widget.RelativeLayout[resource_id][text][enabled,,]",
+      "view_str": "f7a8c8d9430a82d5379a07487885b97c",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        38,
+        39,
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          1325
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/normal_control_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 37,
+      "size": "198*810",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/normal_control_bar[text][enabled,,]",
+      "view_str": "6d72e897b13fd2596a47859ce78a9bd6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/normal_control_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          830
+        ],
+        [
+          2602,
+          1010
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "0*180",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "7c79c01fa8edeb77080723d138608c52",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        40,
+        41,
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          1010
+        ],
+        [
+          2800,
+          1325
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 39,
+      "size": "198*315",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "a832440300f5fc0759f7f504ce8ab27c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          1226
+        ],
+        [
+          2800,
+          1325
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 40,
+      "size": "198*99",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "cda7b2e43bec0afe38e41bd6462cdc1e",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2651,
+          1127
+        ],
+        [
+          2750,
+          1226
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_thumbnail_view_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 41,
+      "size": "99*99",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/lyt_thumbnail_view_holder[text][enabled,,]",
+      "view_str": "bc113e42665be16ba08f0a84770500dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/lyt_thumbnail_view_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        43,
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2651,
+          1127
+        ],
+        [
+          2750,
+          1226
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/thumbnail_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "99*99",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/thumbnail_layout[text][enabled,,]",
+      "view_str": "0f2eec6f6ac82edca3103590ba186086",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/thumbnail_layout"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2651,
+          1127
+        ],
+        [
+          2750,
+          1226
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/thumbnail_border",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 43,
+      "size": "99*99",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/thumbnail_border[text][enabled,,]",
+      "view_str": "9f33455223225afa175811044ef38a92",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/thumbnail_border"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Recent photos, no photos",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2652,
+          1128
+        ],
+        [
+          2749,
+          1225
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/thumbnail_background_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 44,
+      "size": "97*97",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/thumbnail_background_view[text][enabled,,]",
+      "view_str": "3957e42908fb55134723e0dd5ac4d657",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/thumbnail_background_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          1010
+        ],
+        [
+          2800,
+          1127
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 45,
+      "size": "198*117",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "cda7b2e43bec0afe38e41bd6462cdc1e",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        47
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          830
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 46,
+      "size": "198*315",
+      "signature": "[class]android.widget.LinearLayout[resource_id][text][enabled,,]",
+      "view_str": "8234cce34818bdb0d8e19c4b4d87a89d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        48,
+        49,
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          830
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_normal_control_bar_switcher_single",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 47,
+      "size": "198*315",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/lyt_normal_control_bar_switcher_single[text][enabled,,]",
+      "view_str": "4b3a56f80c885e5a8fd02cab487a17ca",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/lyt_normal_control_bar_switcher_single"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          713
+        ],
+        [
+          2800,
+          830
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "198*117",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "abbed4d72f52d0741d1f2acd6d1ddb61",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Switch to front camera",
+      "children": [
+        50,
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2651,
+          614
+        ],
+        [
+          2750,
+          713
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/fl_normal_control_bar_switcher_single",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 49,
+      "size": "99*99",
+      "signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/fl_normal_control_bar_switcher_single[text][enabled,,]",
+      "view_str": "06e0330aa641ff9624326b3eaa877054",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/fl_normal_control_bar_switcher_single"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2651,
+          614
+        ],
+        [
+          2750,
+          713
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/iv_camera_switch_single_outCircle",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 50,
+      "size": "99*99",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/iv_camera_switch_single_outCircle[text][enabled,,]",
+      "view_str": "76cf2d4dc955d1f0f20647518b94fcf4",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/iv_camera_switch_single_outCircle"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2673,
+          637
+        ],
+        [
+          2727,
+          691
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/iv_normal_control_bar_switcher_single",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 51,
+      "size": "54*54",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/iv_normal_control_bar_switcher_single[text][enabled,,]",
+      "view_str": "50cccfdddfc44e23654add2eeeb93681",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/iv_normal_control_bar_switcher_single"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2602,
+          515
+        ],
+        [
+          2800,
+          614
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/iv_single_switchergap",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 52,
+      "size": "198*99",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/iv_single_switchergap[text][enabled,,]",
+      "view_str": "53461ba73975f65e660a18ba262666e1",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/iv_single_switchergap"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Take photo",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2611,
+          830
+        ],
+        [
+          2791,
+          1010
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/shutter_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 53,
+      "size": "180*180",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/shutter_button[text][enabled,,]",
+      "view_str": "078734fb9ca63c1b9ebefa903992c599",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/shutter_button"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Rear camera preview",
+      "children": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/preview_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 4,
+      "temp_id": 54,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/preview_area[text][enabled,,]",
+      "view_str": "24d8164d7aae08788d8cc1095c5879ec",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/preview_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 55,
+      "size": "2453*1840",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "42cf0fe7e7997be598a138a3b7376823",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 56,
+      "size": "2453*1840",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "42cf0fe7e7997be598a138a3b7376823",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 57,
+      "size": "2453*1840",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "42cf0fe7e7997be598a138a3b7376823",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 58,
+      "size": "2453*1840",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "42cf0fe7e7997be598a138a3b7376823",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        60,
+        61,
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/main_view_preview_place_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 59,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_preview_place_holder[text][enabled,,]",
+      "view_str": "413ffcab29125233ad380afd7588ec31",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/main_view_preview_place_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/intelligence_scroll_bar_layout_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 60,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_scroll_bar_layout_container[text][enabled,,]",
+      "view_str": "8136465bb10de054904e85cf581daf45",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_scroll_bar_layout_container"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        62,
+        63,
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/tip_screen",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 61,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/tip_screen[text][enabled,,]",
+      "view_str": "d9de254335aa1eb5be34689ec9287642",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/tip_screen"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/external_view_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 62,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/external_view_holder[text][enabled,,]",
+      "view_str": "df9ca0948e3f2724b07df97ffcfc29f5",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/external_view_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          1822
+        ],
+        [
+          182,
+          1824
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/look_camera_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 63,
+      "size": "2*2",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/look_camera_area[text][enabled,,]",
+      "view_str": "61b7d2a139ed610233ff0e4126945ea9",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/look_camera_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        65
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          108
+        ],
+        [
+          2453,
+          1732
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_camera_tips",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 64,
+      "size": "2273*1624",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/lyt_camera_tips[text][enabled,,]",
+      "view_str": "8fd156be2bd7bde645ae63c2447b7216",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/lyt_camera_tips"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        66,
+        67,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          108
+        ],
+        [
+          2453,
+          1732
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/camera_tips",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "2273*1624",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/camera_tips[text][enabled,,]",
+      "view_str": "799e0655f338ce98403047d9448f6dc9",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/camera_tips"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          108
+        ],
+        [
+          180,
+          1732
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/camera_tips_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 66,
+      "size": "0*1624",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/camera_tips_layout[text][enabled,,]",
+      "view_str": "35e500b3c99e9ba0733648a9703a69ce",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/camera_tips_layout"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          920
+        ],
+        [
+          2453,
+          920
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 67,
+      "size": "2273*0",
+      "signature": "[class]android.view.View[resource_id][text][enabled,,]",
+      "view_str": "199eeccb1a68528e2d3d54f59d4dae83",
+      "content_free_signature": "[class]android.view.View[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2176,
+          108
+        ],
+        [
+          2176,
+          1732
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/master_ai_tip_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 68,
+      "size": "0*1624",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/master_ai_tip_holder[text][enabled,,]",
+      "view_str": "1821bd7694c06be20e20ea60211baa4d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/master_ai_tip_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        70
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/intelligence_scene",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 69,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_scene[text][enabled,,]",
+      "view_str": "3afda8ad1927f490ecbd93b977637a99",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_scene"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        71
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2191,
+          920
+        ],
+        [
+          2191,
+          920
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/intelligence_composition_tip_rotatable",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 70,
+      "size": "0*0",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.huawei.camera:id/intelligence_composition_tip_rotatable[text][enabled,,]",
+      "view_str": "49acd655a9caf77c28173e2b306f6672",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.huawei.camera:id/intelligence_composition_tip_rotatable"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2191,
+          920
+        ],
+        [
+          2191,
+          920
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/intelligence_composition_tip_rl",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "0*0",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_composition_tip_rl[text][enabled,,]",
+      "view_str": "6fb0bd7c8e295b86076dde9db604d6d0",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/intelligence_composition_tip_rl"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        73
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/curve_bar_layout_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 72,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/curve_bar_layout_holder[text][enabled,,]",
+      "view_str": "e8978f55dc01f708031f5cbc7d68cd2e",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/curve_bar_layout_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        74
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/curve_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 73,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/curve_bar[text][enabled,,]",
+      "view_str": "cd296cb4668ae2cc72ae942ff197ff41",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/curve_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "1.0 times zoom",
+      "children": [
+        75,
+        76
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          2093,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/zoom_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 73,
+      "temp_id": 74,
+      "size": "360*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/zoom_bar[text][enabled,,]",
+      "view_str": "2cfdd915cb014bf276e2823e1ef3a083",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/zoom_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2129,
+          735
+        ],
+        [
+          2250,
+          1105
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 74,
+      "temp_id": 75,
+      "size": "121*370",
+      "signature": "[class]android.widget.TextView[resource_id][text][enabled,,]",
+      "view_str": "b7274cd1ca19c859a5b69a364f4a0574",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        77
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          778
+        ],
+        [
+          2399,
+          1062
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 74,
+      "temp_id": 76,
+      "size": "77*284",
+      "signature": "[class]android.widget.RelativeLayout[resource_id][text][enabled,,]",
+      "view_str": "2c5648eaff561888299bc50d0c35be31",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        78,
+        82,
+        83,
+        87,
+        88
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          778
+        ],
+        [
+          2399,
+          1062
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/quick_zoom_bar_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 76,
+      "temp_id": 77,
+      "size": "77*284",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/quick_zoom_bar_layout[text][enabled,,]",
+      "view_str": "97b3e6417c4100444a7ce9dfe20a56f4",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/quick_zoom_bar_layout"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        79,
+        80,
+        81
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          985
+        ],
+        [
+          2399,
+          1062
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/fl_wide",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 78,
+      "size": "77*77",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_wide[text][enabled,,]",
+      "view_str": "6af49c207b83f3d395cc37b71cf03d4b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_wide"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          985
+        ],
+        [
+          2399,
+          1062
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/circle_wide",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 79,
+      "size": "77*77",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_wide[text][enabled,,]",
+      "view_str": "01a1521770982bf0e7dc5a56c1986f60",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_wide"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "ZoomWide",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2329,
+          993
+        ],
+        [
+          2392,
+          1056
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/wide_button_bg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 80,
+      "size": "63*63",
+      "signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/wide_button_bg[text][enabled,,]",
+      "view_str": "6cc878a58fe15c9101df6f1dc75952ce",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/wide_button_bg"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2326,
+          990
+        ],
+        [
+          2394,
+          1058
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/wide_button",
+      "checked": false,
+      "text": "W",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 81,
+      "size": "68*68",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/wide_button[text]W[enabled,,]",
+      "view_str": "c1bb6fda856b6766b7edd696f88cdd86",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/wide_button"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2358,
+          969
+        ],
+        [
+          2363,
+          974
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/firstDot",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 82,
+      "size": "5*5",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/firstDot[text][enabled,,]",
+      "view_str": "d1c73c427648afa2c25f5cad8be22f52",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/firstDot"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        84,
+        85,
+        86
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          881
+        ],
+        [
+          2399,
+          958
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/fl_one",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 83,
+      "size": "77*77",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_one[text][enabled,,]",
+      "view_str": "336b8eea01a3e1317a1c17d16f9627e6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_one"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          881
+        ],
+        [
+          2399,
+          958
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/circle_one",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 84,
+      "size": "77*77",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_one[text][enabled,,]",
+      "view_str": "3286891e2e215d9081e88cd2261d53f9",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_one"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "1.0 times zoom",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2329,
+          889
+        ],
+        [
+          2392,
+          952
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/one_button_bg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 85,
+      "size": "63*63",
+      "signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/one_button_bg[text][enabled,,]",
+      "view_str": "80d4f3038178d4bc875f6bb96cb6751d",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/one_button_bg"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2326,
+          886
+        ],
+        [
+          2394,
+          954
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/one_button",
+      "checked": false,
+      "text": "1x",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 86,
+      "size": "68*68",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/one_button[text]1x[enabled,,]",
+      "view_str": "d438bcb0a46b1edd92a5e21afbc14480",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/one_button"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2358,
+          865
+        ],
+        [
+          2363,
+          870
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/secondDot",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 87,
+      "size": "5*5",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/secondDot[text][enabled,,]",
+      "view_str": "ba2f4edd525680c9594af6172fff4858",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/secondDot"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        89,
+        90,
+        91
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          778
+        ],
+        [
+          2399,
+          854
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/fl_two",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 88,
+      "size": "77*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_two[text][enabled,,]",
+      "view_str": "08e9e40e1100f70894f3781042486009",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/fl_two"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2322,
+          778
+        ],
+        [
+          2399,
+          854
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/circle_two",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 89,
+      "size": "77*76",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_two[text][enabled,,]",
+      "view_str": "472433c5c3e9dea7ef9f95f8af557a41",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/circle_two"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "10.0 times zoom",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2329,
+          785
+        ],
+        [
+          2392,
+          848
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/two_button_bg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 90,
+      "size": "63*63",
+      "signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/two_button_bg[text][enabled,,]",
+      "view_str": "b28402a7e7bb60babcf4f45b9d2aeba8",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.huawei.camera:id/two_button_bg"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2326,
+          782
+        ],
+        [
+          2394,
+          850
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/two_button",
+      "checked": false,
+      "text": "10x",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 91,
+      "size": "68*68",
+      "signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/two_button[text]10x[enabled,,]",
+      "view_str": "900d76fd262aba2a73998bae35399d8c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.huawei.camera:id/two_button"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        93
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          389
+        ],
+        [
+          180,
+          1451
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_landscape_box_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 92,
+      "size": "180*1062",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_landscape_box_holder[text][enabled,,]",
+      "view_str": "de902532438cd329bc332970feef7f6e",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_landscape_box_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        94
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          389
+        ],
+        [
+          180,
+          1451
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_landscape_items_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 92,
+      "temp_id": 93,
+      "size": "180*1062",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_landscape_items_holder[text][enabled,,]",
+      "view_str": "12ed2d75aea5d76749c871b3fb262c76",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_landscape_items_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        95
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          389
+        ],
+        [
+          180,
+          1451
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_box_items",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 93,
+      "temp_id": 94,
+      "size": "180*1062",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_box_items[text][enabled,,]",
+      "view_str": "278ecc4dc121cfd1c7cf8d69444e2598",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_box_items"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 8,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        96,
+        99,
+        102,
+        105,
+        108,
+        111,
+        114,
+        117
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          389
+        ],
+        [
+          180,
+          1451
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/treasure_box_stage_item",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 95,
+      "size": "180*1062",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.huawei.camera:id/treasure_box_stage_item[text][enabled,,]",
+      "view_str": "bc393617e573f3781a93ad03b3ec56b8",
+      "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.huawei.camera:id/treasure_box_stage_item"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Enter AI Lens",
+      "children": [
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1343
+        ],
+        [
+          162,
+          1451
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 96,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        98
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1343
+        ],
+        [
+          162,
+          1451
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 96,
+      "temp_id": 97,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "7696d0ee1d14b67b35ead35f8e310cba",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Enter AI Lens",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          79,
+          1368
+        ],
+        [
+          137,
+          1426
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_hi_vision",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 98,
+      "size": "58*58",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_hi_vision[text][enabled,,]",
+      "view_str": "eb9632471c279b4437654ad00b980071",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_hi_vision"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        100
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1199
+        ],
+        [
+          162,
+          1307
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 99,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        101
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1199
+        ],
+        [
+          162,
+          1307
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 99,
+      "temp_id": 100,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "51dbe0ebcbfd3e2257073ebb6135c7a5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Aspect ratio4:3",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1199
+        ],
+        [
+          162,
+          1307
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_photo_resolution",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 100,
+      "temp_id": 101,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_photo_resolution[text][enabled,,]",
+      "view_str": "5738327c56dfb122ec9d4098e28cc055",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_photo_resolution"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        103
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1055
+        ],
+        [
+          162,
+          1163
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 102,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        104
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1055
+        ],
+        [
+          162,
+          1163
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 102,
+      "temp_id": 103,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "dc945164b4be2a00fd75b5e8264eb4eb",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Flash,Off",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          1055
+        ],
+        [
+          162,
+          1163
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_flash",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 103,
+      "temp_id": 104,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_flash[text][enabled,,]",
+      "view_str": "d17ca3201dc2fdbe9e90ba2179abe9e9",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_flash"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        106
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          911
+        ],
+        [
+          162,
+          1019
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 105,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        107
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          911
+        ],
+        [
+          162,
+          1019
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 106,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "24da81f4564bffb170004be1a4f76e49",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Photo genius,On",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          911
+        ],
+        [
+          162,
+          1019
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_master_ai_entry",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 107,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_master_ai_entry[text][enabled,,]",
+      "view_str": "7362c313b8c3e66c334e5f1306cdb945",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_master_ai_entry"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Moving picture,Off",
+      "children": [
+        109
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          767
+        ],
+        [
+          162,
+          875
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 108,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        110
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          767
+        ],
+        [
+          162,
+          875
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 108,
+      "temp_id": 109,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "e6b95199c344060ec24657f4d0989a27",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Moving picture,Off",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          767
+        ],
+        [
+          162,
+          875
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_best_moment",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 109,
+      "temp_id": 110,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_best_moment[text][enabled,,]",
+      "view_str": "52d2cdc35e0eadecc83f3e1622071031",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_best_moment"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        112
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          623
+        ],
+        [
+          162,
+          731
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 111,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        113
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          623
+        ],
+        [
+          162,
+          731
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 111,
+      "temp_id": 112,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "f5b809faea3d9229b583c6872c0e39e5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Filter None",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          623
+        ],
+        [
+          162,
+          731
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_effect_slide_bar_box",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 112,
+      "temp_id": 113,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_effect_slide_bar_box[text][enabled,,]",
+      "view_str": "57d423dc434e6dd480735d5669b6c975",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_effect_slide_bar_box"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        115
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          479
+        ],
+        [
+          162,
+          587
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 114,
+      "size": "108*108",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        116
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          479
+        ],
+        [
+          162,
+          587
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 114,
+      "temp_id": 115,
+      "size": "108*108",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "c2e82ddd0104980e660f1281ba977a60",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Assistive grid, off",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          479
+        ],
+        [
+          162,
+          587
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_assistant_line",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 115,
+      "temp_id": 116,
+      "size": "108*108",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_assistant_line[text][enabled,,]",
+      "view_str": "e894628d60e8478c50e175753be11d5d",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_assistant_line"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Settings",
+      "children": [
+        118
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          389
+        ],
+        [
+          162,
+          443
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 117,
+      "size": "108*54",
+      "signature": "[class]android.widget.Button[resource_id][text][enabled,,]",
+      "view_str": "522553db23bacfdf7a799b64c57e807b",
+      "content_free_signature": "[class]android.widget.Button[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        119
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          389
+        ],
+        [
+          162,
+          443
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/box_item_button_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 117,
+      "temp_id": 118,
+      "size": "108*54",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area[text][enabled,,]",
+      "view_str": "bf82e03c19dd8307445350f6082cce1a",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/box_item_button_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Settings",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          79,
+          389
+        ],
+        [
+          137,
+          418
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/feature_setting_entrance",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 118,
+      "temp_id": 119,
+      "size": "58*29",
+      "signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_setting_entrance[text][enabled,,]",
+      "view_str": "ef73cec524d86dab04fa6102ad361e2a",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.huawei.camera:id/feature_setting_entrance"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        121
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          515,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/treasure_box",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 120,
+      "size": "2285*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/treasure_box[text][enabled,,]",
+      "view_str": "a69cc255a2a3dd5762aadb9de92c2f65",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/treasure_box"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          515,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 120,
+      "temp_id": 121,
+      "size": "2285*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id][text][enabled,,]",
+      "view_str": "4d0ba9a07b70efb781a6520da6873aae",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        123,
+        125,
+        127,
+        128,
+        129
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2158,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 122,
+      "size": "295*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar[text][enabled,,]",
+      "view_str": "06d16df7f33e8343dfc09bba8996d2c5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        124
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2158,
+          0
+        ],
+        [
+          2176,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/lyt_zoom_mf_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 123,
+      "size": "18*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_zoom_mf_bar[text][enabled,,]",
+      "view_str": "4fca76a0269fd5675be0b53614aeb3ab",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/lyt_zoom_mf_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2158,
+          0
+        ],
+        [
+          2158,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_holder_zoom_mf",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 123,
+      "temp_id": 124,
+      "size": "0*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_holder_zoom_mf[text][enabled,,]",
+      "view_str": "9a91b808bcc49b1119b748b701037b1d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_holder_zoom_mf"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        126
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2176,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_slide_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 125,
+      "size": "277*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/effect_bar_slide_bar[text][enabled,,]",
+      "view_str": "a2264017cf464c053f1ef878eb9b3cc5",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/effect_bar_slide_bar"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2176,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_holder_toggle_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 125,
+      "temp_id": 126,
+      "size": "277*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_holder_toggle_button[text][enabled,,]",
+      "view_str": "7a9c07c85d7c867ed7f4bfee0fbe674d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_holder_toggle_button"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2453,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_holder_persistent_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 127,
+      "size": "0*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/effect_bar_holder_persistent_view[text][enabled,,]",
+      "view_str": "2b352184d1b6d19056fabfb33ff798dd",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/effect_bar_holder_persistent_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2453,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_mode_tab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 128,
+      "size": "0*1840",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_mode_tab[text][enabled,,]",
+      "view_str": "52adfe49f52ecf39880cb2087409e1d6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.huawei.camera:id/effect_bar_mode_tab"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2453,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/effect_bar_holder_transient_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 129,
+      "size": "0*1840",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/effect_bar_holder_transient_view[text][enabled,,]",
+      "view_str": "b94c5c6d3a8984230fdcea828685268b",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.huawei.camera:id/effect_bar_holder_transient_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2451,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/foot_black_background",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 130,
+      "size": "349*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/foot_black_background[text][enabled,,]",
+      "view_str": "b0d3cf789841c7f4a772cdcc18cd27e5",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/foot_black_background"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2800,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/half_fold_operation_area",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 131,
+      "size": "0*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/half_fold_operation_area[text][enabled,,]",
+      "view_str": "58cb6f1de69470cac96765a77c944638",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/half_fold_operation_area"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        133
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/real_preview_holder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 132,
+      "size": "2453*1840",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/real_preview_holder[text][enabled,,]",
+      "view_str": "5dbe78460d176e5d9a6a2c7ffebb8648",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.huawei.camera:id/real_preview_holder"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          2453,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/surface_view",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 132,
+      "temp_id": 133,
+      "size": "2453*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/surface_view[text][enabled,,]",
+      "view_str": "39fe92bad610801f96a547f49c0787bd",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/surface_view"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/background_start",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 134,
+      "size": "0*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/background_start[text][enabled,,]",
+      "view_str": "49d935e95dec5d658a559df795bab428",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/background_start"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/necessary_black_dot",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 135,
+      "size": "1*1",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/necessary_black_dot[text][enabled,,]",
+      "view_str": "11b8c82c0f6fbc1e0792bab8fe7be112",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/necessary_black_dot"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2799,
+          1839
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/necessary_black_dot_end_bottom",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 136,
+      "size": "1*1",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/necessary_black_dot_end_bottom[text][enabled,,]",
+      "view_str": "14cbe0ae3ec28128494b3566529fd508",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/necessary_black_dot_end_bottom"
+    },
+    {
+      "package": "com.huawei.camera",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2800,
+          0
+        ],
+        [
+          2800,
+          1840
+        ]
+      ],
+      "resource_id": "com.huawei.camera:id/background_end",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 137,
+      "size": "0*1840",
+      "signature": "[class]android.view.View[resource_id]com.huawei.camera:id/background_end[text][enabled,,]",
+      "view_str": "a4ecdc309742acefee07083fdd547580",
+      "content_free_signature": "[class]android.view.View[resource_id]com.huawei.camera:id/background_end"
+    }
+  ]
+}

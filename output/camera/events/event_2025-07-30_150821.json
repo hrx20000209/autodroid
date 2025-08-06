@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-30_150821",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange"
+  },
+  "start_state": "a18cd0d961fe16054b778e55c4c85cd2601acceb216807f831722a4906bdb816",
+  "stop_state": "a801706fd7e35bb907e9f69757128be5043913c25b11b6bf287fc242f4fb03d4",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange')"
+}

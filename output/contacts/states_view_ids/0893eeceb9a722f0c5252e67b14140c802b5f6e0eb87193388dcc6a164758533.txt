@@ -1,0 +1,1 @@
+[['Search', 10], ['Sort by', 13], ['Filter', 14], ['Settings', 15], ['About', 16], ['More options', 17], ['utg', 26], ['U', 32], ['Create new contact', 33], ['Dialpad', 49], ['Contacts', 55], ['Favorites', 59], ['Groups', 63]]

@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_153311",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1329,
+          2479
+        ],
+        [
+          1473,
+          2587
+        ]
+      ],
+      "resource_id": "android:id/button1",
+      "checked": false,
+      "text": "OK",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 34,
+      "size": "144*108",
+      "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]OK[enabled,,]",
+      "view_str": "1b78414ffb53b27a153dc624c94f9706",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73",
+  "stop_state": "50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2",
+  "event_str": "TouchEvent(state=efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73, view=1b78414ffb53b27a153dc624c94f9706(MainActivity/Button-OK))"
+}

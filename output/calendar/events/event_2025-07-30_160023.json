@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-30_160023",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.calendar.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "New Event",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1678,
+          2638
+        ],
+        [
+          1804,
+          2764
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.calendar.pro:id/calendar_fab",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 311,
+      "size": "126*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.calendar.pro:id/calendar_fab[text][enabled,,]",
+      "view_str": "e5ab92b7df4c8ceb31c9c01e50f473d8",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.simplemobiletools.calendar.pro:id/calendar_fab"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "d4aff14a53092606f68855d704e32835a5bdde63f16b94ce79d1ea5b937f1d30",
+  "stop_state": "f1cd044d9df0e0c1f2d66d25357b161e833b6c26dbe170af8d8bfe2c26d4abde",
+  "event_str": "TouchEvent(state=d4aff14a53092606f68855d704e32835a5bdde63f16b94ce79d1ea5b937f1d30, view=e5ab92b7df4c8ceb31c9c01e50f473d8(MainActivity/ImageButton-))"
+}

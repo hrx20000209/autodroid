@@ -1,0 +1,1 @@
+[['Allow Contacts to access your contacts?', 9], ['This lets the app: modify contacts', 10], ['DENY', 13], ['ALLOW', 15]]

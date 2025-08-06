@@ -1,0 +1,12 @@
+add device 1: /dev/input/event2
+  name:     "input_mt_wrapper"
+add device 2: /dev/input/event0
+  name:     "soundtrigger_input_dev"
+add device 3: /dev/input/event3
+  name:     "huawei,ts_pen"
+add device 4: /dev/input/event5
+  name:     "ponkey_on"
+add device 5: /dev/input/event1
+  name:     "fingerprint"
+add device 6: /dev/input/event4
+  name:     "hisi_pmic_gpio_key"

@@ -1,0 +1,51 @@
+{
+  "tag": "2025-07-31_143350",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.contacts.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          126,
+          90
+        ],
+        [
+          1200,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.contacts.pro:id/top_toolbar_search",
+      "checked": false,
+      "text": "Search",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "1074*108",
+      "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search[text]Search[enabled,,]",
+      "view_str": "d0982528b3bba208d53b40ec01ea010b",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.contacts.pro:id/top_toolbar_search"
+    },
+    "x": null,
+    "y": null,
+    "text": "utg"
+  },
+  "start_state": "03f3df31e07e6bbbe1cf243a6d5e73ac2d356e14e9113a7d8303d26605ae4434",
+  "stop_state": "ccde1ea9458f98ab1e61ba1c4f316c083f8a3adb1a7210544102cc629ce8d478",
+  "event_str": "SetTextEvent(state=03f3df31e07e6bbbe1cf243a6d5e73ac2d356e14e9113a7d8303d26605ae4434, view=d0982528b3bba208d53b40ec01ea010b(MainActivity/EditText-Search), text=utg)"
+}

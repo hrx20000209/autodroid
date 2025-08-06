@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_142812",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.contacts.pro"
+  },
+  "start_state": "d90e0e3eb84e96cf3740d78701ea4927a83aa60a67876d0d9d548e11beb86aaf",
+  "stop_state": "766c64a986ffadb99ea8d35d1468b3c5f052bb491a7eb3d915a0b656a85f6c8e",
+  "event_str": "KillAppEvent()"
+}

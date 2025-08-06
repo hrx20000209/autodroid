@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_172745",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.musicplayer",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          144,
+          2539
+        ],
+        [
+          1732,
+          2629
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.musicplayer:id/current_track_label",
+      "checked": false,
+      "text": "Dream It Possible \u2022 Delacey",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 73,
+      "temp_id": 76,
+      "size": "1588*90",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.musicplayer:id/current_track_label[text]Dream It Possible \u2022 Delacey[enabled,,selected]",
+      "view_str": "753873532e385de0b91aa9849298ce8f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.musicplayer:id/current_track_label"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "7ceacb0def8539e6fb11f615691129c8c98cbee8b670824c9ee7364cc0c28a30",
+  "stop_state": "0f0e9084246a1769ef93af11d496709e6f6777d6d14015b26215401147e931ed",
+  "event_str": "TouchEvent(state=7ceacb0def8539e6fb11f615691129c8c98cbee8b670824c9ee7364cc0c28a30, view=753873532e385de0b91aa9849298ce8f(MainActivity/TextView-Dream It P))"
+}

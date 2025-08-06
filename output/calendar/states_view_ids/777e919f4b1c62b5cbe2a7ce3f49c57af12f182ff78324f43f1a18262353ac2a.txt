@@ -1,0 +1,1 @@
+[['Disclaimer', 8], ['Please make sure the reminders work properly before relying on them. Check your device battery and notification settings, if there is nothing blocking the reminders, or killing the app in the background.', 11], ['Settings', 14], ['OK', 15]]

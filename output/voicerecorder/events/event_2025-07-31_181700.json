@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_181700",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.android.permissioncontroller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          534,
+          1243
+        ],
+        [
+          1306,
+          1339
+        ]
+      ],
+      "resource_id": "com.android.permissioncontroller:id/permission_message",
+      "checked": false,
+      "text": "Allow Voice Recorder to access the microphone?",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "772*96",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.permissioncontroller:id/permission_message[text]Allow Voice Recorder to access the microphone?[enabled,,]",
+      "view_str": "80e2f5e7f68ea92f6f4199499d5490db",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.permissioncontroller:id/permission_message"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08",
+  "stop_state": "0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08",
+  "event_str": "TouchEvent(state=0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08, view=80e2f5e7f68ea92f6f4199499d5490db(MainActivity/TextView-Allow Voic))"
+}

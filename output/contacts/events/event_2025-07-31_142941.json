@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_142941",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.android.permissioncontroller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          534,
+          1351
+        ],
+        [
+          1306,
+          1400
+        ]
+      ],
+      "resource_id": "com.android.permissioncontroller:id/permission_message",
+      "checked": false,
+      "text": "Allow Contacts to access your contacts?",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "772*49",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.permissioncontroller:id/permission_message[text]Allow Contacts to access your contacts?[enabled,,]",
+      "view_str": "9f761e9c4cdd0447ef0d9bd117aa6e36",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.permissioncontroller:id/permission_message"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4",
+  "stop_state": "61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4",
+  "event_str": "TouchEvent(state=61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4, view=9f761e9c4cdd0447ef0d9bd117aa6e36(GrantPermissionsActivity/TextView-Allow Cont))"
+}

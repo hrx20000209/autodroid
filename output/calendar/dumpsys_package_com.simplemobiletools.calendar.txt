@@ -1,0 +1,543 @@
+Activity Resolver Table:
+  Full MIME Types:
+      vnd.android.cursor.dir/event:
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter dd253ae
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.dir/event"
+      text/calendar:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+      time/epoch:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter b571fd6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Authority: "com.android.calendar": -1
+          StaticType: "time/epoch"
+      text/x-vcalendar:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+      vnd.android.cursor.item/event:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 54ff257
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter 16429
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+
+  Base MIME Types:
+      vnd.android.cursor.dir:
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter dd253ae
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.dir/event"
+      vnd.android.cursor.item:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 54ff257
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter 16429
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+      text:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+      time:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter b571fd6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Authority: "com.android.calendar": -1
+          StaticType: "time/epoch"
+
+  Schemes:
+      file:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+      content:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter b571fd6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Authority: "com.android.calendar": -1
+          StaticType: "time/epoch"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        783e975 com.simplemobiletools.calendar/.activities.SplashActivity filter 9ca3d0a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        52ae144 com.simplemobiletools.calendar/.activities.WidgetMonthlyConfigureActivity filter 27cd22d
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+        2fd6362 com.simplemobiletools.calendar/.activities.WidgetListConfigureActivity filter 9f75cf3
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+      android.intent.action.SEARCH:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 4db2398
+          Action: "android.intent.action.SEARCH"
+
+  MIME Typed Actions:
+      android.intent.action.EDIT:
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter 16429
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter dd253ae
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.dir/event"
+      android.intent.action.VIEW:
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 5b6a7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "text/x-vcalendar"
+          StaticType: "text/calendar"
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter b571fd6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Authority: "com.android.calendar": -1
+          StaticType: "time/epoch"
+        971397b com.simplemobiletools.calendar/.activities.MainActivity filter 54ff257
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+      android.intent.action.INSERT:
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter 16429
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.item/event"
+        396cdb0 com.simplemobiletools.calendar/.activities.EventActivity filter dd253ae
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.dir/event"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.QUICKBOOT_POWERON:
+        abf776b com.simplemobiletools.calendar/.receivers.BootCompletedReceiver filter 1aaa2c8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      com.htc.intent.action.QUICKBOOT_POWERON:
+        abf776b com.simplemobiletools.calendar/.receivers.BootCompletedReceiver filter 1aaa2c8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      com.simplemobiletools.commons.SHARED_THEME_ACTIVATED:
+        1f06f61 com.simplemobiletools.calendar/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter b552a86
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      android.intent.action.BOOT_COMPLETED:
+        abf776b com.simplemobiletools.calendar/.receivers.BootCompletedReceiver filter 1aaa2c8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      com.simplemobiletools.commons.SHARED_THEME_UPDATED:
+        1f06f61 com.simplemobiletools.calendar/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter b552a86
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        ea0d54f com.simplemobiletools.calendar/.helpers.MyWidgetMonthlyProvider filter 59314dc
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        e2319e5 com.simplemobiletools.calendar/.helpers.MyWidgetListProvider filter 2f3fcba
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+
+Domain verification status:
+
+Registered ContentProviders:
+  com.simplemobiletools.calendar/android.support.v4.content.FileProvider:
+    Provider{1d0b6bb com.simplemobiletools.calendar/android.support.v4.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.simplemobiletools.calendar.provider]:
+    Provider{1d0b6bb com.simplemobiletools.calendar/android.support.v4.content.FileProvider}
+      applicationInfo=ApplicationInfo{29b0dcf com.simplemobiletools.calendar}
+
+Key Set Manager:
+  [com.simplemobiletools.calendar]
+      Signing KeySets: 129
+
+Packages:
+  Package [com.simplemobiletools.calendar] (8b98731):
+    userId=10231
+    pkg=Package{65e28ac com.simplemobiletools.calendar}
+    codePath=/data/app/~~YSPcloRT0pUZLP6RO1WvLA==/com.simplemobiletools.calendar-Kkb3y1gnXqxXJFhJCCPLQw==
+    resourcePath=/data/app/~~YSPcloRT0pUZLP6RO1WvLA==/com.simplemobiletools.calendar-Kkb3y1gnXqxXJFhJCCPLQw==
+    legacyNativeLibraryDir=/data/app/~~YSPcloRT0pUZLP6RO1WvLA==/com.simplemobiletools.calendar-Kkb3y1gnXqxXJFhJCCPLQw==/lib
+    extractNativeLibs=true
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=118 minSdk=16 targetSdk=27
+    minExtensionVersions=[]
+    versionName=3.4.2
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=PackageImpl{65e28ac com.simplemobiletools.calendar}
+    applicationInfo.owns=0
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    hwflags=[ ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.simplemobiletools.calendar
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2025-07-30 11:04:30
+    firstInstallTime=2025-07-30 11:04:35
+    lastUpdateTime=2025-07-30 11:04:35
+    signatures=PackageSignatures{f15ae16 version:2, signatures:[7a278a51], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_CONTACTS
+      android.permission.VIBRATE
+      android.permission.READ_CALENDAR
+      android.permission.WRITE_CALENDAR
+      android.permission.WAKE_LOCK
+      android.permission.POST_NOTIFICATIONS
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=175070 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_CONTACTS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+    User 10: ceDataInode=0 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_CALENDAR: granted=false
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_CALENDAR: granted=false
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_CONTACTS: granted=false
+        android.permission.ACCESS_MEDIA_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED]
+    User 11: ceDataInode=0 installed=false hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_CALENDAR: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_CONTACTS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+    com.simplemobiletools.calendar.pro:
+      com.simplemobiletools.calendar
+  queries via intent:
+    [com.huawei.game.kitserver,androidhwext,com.android.keychain,com.android.location.fused,com.android.networkstack.inprocess,com.huawei.iaware,com.huawei.systemmanager,com.huawei.android.projectmenu,com.android.settings,com.huawei.searchservice,com.huawei.waudio,com.huawei.hwdetectrepair,com.huawei.audioaccessorymanager,com.huawei.android.hwaps,com.huawei.mmitest,com.android.inputdevices,com.huawei.systemserver,com.android.networkstack.tethering.inprocess,com.huawei.nb.service,com.huawei.hiview,com.android.server.telecom,com.huawei.msdp,com.android.providers.settings,com.huawei.android.chr,android,com.huawei.ca,com.huawei.android.internal.app,com.huawei.dmsdp,com.huawei.harmonyos.foundation,com.android.wallpaperbackup,com.huawei.gateway,com.android.localtransport,com.huawei.hwddmp,com.huawei.powergenie]:
+      com.simplemobiletools.calendar
+    com.huawei.nemo:
+      com.simplemobiletools.calendar
+    com.huawei.music:
+      com.simplemobiletools.calendar
+    com.UCMobile:
+      com.simplemobiletools.calendar
+    com.vmall.client:
+      com.simplemobiletools.calendar
+    com.easy.abroad:
+      com.simplemobiletools.calendar
+    com.xingin.xhs:
+      com.simplemobiletools.calendar
+    com.qiyi.video.pad:
+      com.simplemobiletools.calendar
+    com.tencent.mm:
+      com.simplemobiletools.calendar
+  queryable via interaction:
+    User 0:
+    User 10:
+    User 11:
+  queryable via uses-library:
+
+Package Changes:
+  Sequence number=355
+  User 0:
+    seq=1, package=com.huawei.hwstartupguide
+    seq=4, package=com.huawei.localBackup
+    seq=5, package=com.huawei.gamebox
+    seq=6, package=com.huawei.hinote
+    seq=7, package=com.huawei.hidisk
+    seq=8, package=com.huawei.phoneservice
+    seq=18, package=com.easy.abroad
+    seq=27, package=com.huawei.health
+    seq=28, package=com.tencent.weread
+    seq=29, package=com.huawei.browser
+    seq=30, package=com.huawei.android.thememanager
+    seq=32, package=com.huawei.hsl
+    seq=33, package=com.huawei.wallet
+    seq=34, package=tv.danmaku.bili
+    seq=35, package=com.hicloud.android.clone
+    seq=36, package=com.huawei.audioaccessorymanager
+    seq=37, package=com.vmall.client
+    seq=38, package=com.huawei.gameassistant
+    seq=39, package=com.huawei.android.totemweather
+    seq=40, package=com.huawei.himovie
+    seq=41, package=com.huawei.fastapp
+    seq=42, package=com.huawei.smarthome
+    seq=43, package=com.huawei.intelligent
+    seq=45, package=com.tencent.mm
+    seq=52, package=com.huawei.appmarket
+    seq=53, package=com.android.shell
+    seq=54, package=com.android.settings
+    seq=55, package=com.huawei.hwdiagnosis
+    seq=81, package=com.coolapk.market
+    seq=83, package=com.UCMobile
+    seq=84, package=com.android.vending
+    seq=85, package=com.lemon.lv
+    seq=87, package=com.xingin.xhs
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=327, package=com.huawei.aod
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=352, package=io.github.ylimit.droidbotapp
+  User 10:
+    seq=88, package=com.huawei.health
+    seq=89, package=com.huawei.hiview
+    seq=90, package=com.huawei.iaware
+    seq=91, package=com.huawei.android.chr
+    seq=92, package=com.huawei.parentcontrol
+    seq=93, package=com.huawei.gameassistant
+    seq=94, package=com.huawei.associateassistant
+    seq=95, package=com.huawei.meetime
+    seq=96, package=com.huawei.android.hwouc
+    seq=97, package=com.huawei.mmitest
+    seq=98, package=com.huawei.ohos.health
+    seq=99, package=com.huawei.hsl
+    seq=100, package=com.huawei.android.airsharing
+    seq=101, package=com.huawei.trustspace
+    seq=107, package=com.android.permissioncontroller
+    seq=110, package=com.huawei.hwstartupguide
+    seq=111, package=com.huawei.android.launcher
+    seq=113, package=com.huawei.systemmanager
+    seq=114, package=com.huawei.aod
+    seq=139, package=com.huawei.vassistant
+    seq=141, package=com.huawei.deskclock
+    seq=162, package=com.huawei.android.thememanager
+    seq=165, package=com.huawei.hidisk
+    seq=172, package=com.huawei.nemo
+    seq=173, package=com.huawei.phoneservice
+    seq=178, package=com.android.settings
+    seq=183, package=com.android.statementservice
+    seq=184, package=com.huawei.contacts
+    seq=185, package=com.huawei.tips
+    seq=186, package=com.huawei.hilink.framework
+    seq=187, package=com.android.mms
+    seq=189, package=com.huawei.wallet
+    seq=190, package=com.huawei.calendar
+    seq=191, package=com.huawei.hwid
+    seq=194, package=com.huawei.email
+    seq=196, package=com.huawei.appmarket
+    seq=198, package=com.gbox.android
+    seq=201, package=com.google.android.gms
+    seq=206, package=com.android.chrome
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=352, package=io.github.ylimit.droidbotapp
+  User 11:
+    seq=208, package=com.huawei.health
+    seq=209, package=com.huawei.hiview
+    seq=210, package=com.huawei.iaware
+    seq=211, package=com.huawei.android.chr
+    seq=212, package=com.huawei.parentcontrol
+    seq=213, package=com.huawei.gameassistant
+    seq=214, package=com.huawei.associateassistant
+    seq=215, package=com.huawei.meetime
+    seq=216, package=com.huawei.android.hwouc
+    seq=217, package=com.huawei.mmitest
+    seq=218, package=com.huawei.ohos.health
+    seq=219, package=com.huawei.hsl
+    seq=220, package=com.huawei.android.airsharing
+    seq=221, package=com.huawei.trustspace
+    seq=227, package=com.android.permissioncontroller
+    seq=230, package=com.huawei.systemmanager
+    seq=231, package=com.huawei.android.launcher
+    seq=232, package=com.huawei.aod
+    seq=240, package=com.huawei.vassistant
+    seq=243, package=com.huawei.hidisk
+    seq=263, package=com.huawei.phoneservice
+    seq=265, package=com.huawei.android.thememanager
+    seq=270, package=com.huawei.appmarket
+    seq=290, package=com.android.mms
+    seq=292, package=com.huawei.contacts
+    seq=293, package=com.android.statementservice
+    seq=294, package=com.huawei.deskclock
+    seq=295, package=com.huawei.tips
+    seq=297, package=com.huawei.wallet
+    seq=298, package=com.huawei.nemo
+    seq=303, package=com.huawei.email
+    seq=304, package=com.huawei.calendar
+    seq=307, package=com.huawei.hwstartupguide
+    seq=308, package=com.huawei.hwid
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=322, package=com.huawei.music
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=339, package=com.simplemobiletools.calendar
+    seq=341, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=352, package=io.github.ylimit.droidbotapp
+    seq=353, package=com.android.settings
+    seq=354, package=com.huawei.hilink.framework
+
+
+
+Compiler stats:
+  [com.simplemobiletools.calendar]
+     base.apk - 204
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+
+Snapshot statistics
+   Unrecorded-hits: 20013  Cork-level: 0
+   Summary stats               TotBlds     TotUsed     TotCork     BigBlds    ShortLvd     TotTime     MaxTime
+          0:18         now           0           0           0           0           0           0           0
+         22:01        0:18           2       76465           0           0           0           3           2
+         23:10       22:01           0           0           0           0           0           0           0
+         24:20       23:10           0           0           0           0           0           0           0
+         25:29       24:20           0           0           0           0           0           0           0
+         26:41       25:29           0           0           0           0           0           0           0
+         27:53       26:41           0           0           0           0           0           0           0
+         29:12       27:53           0           0           0           0           0           0           0
+         30:21       29:12           0           0           0           0           0           0           0
+         31:33       30:21           0           0           0           0           0           0           0
+   19:08:56:04         now        3897    11771809           0          59         554        3165          77
+
+   Build times                  <= 1ms      <= 2ms      <= 5ms     <= 10ms     <= 20ms     <= 50ms    <= 100ms     > 100ms
+          0:18         now           0           0           0           0           0           0           0           0
+         22:01        0:18           1           1           0           0           0           0           0           0
+         23:10       22:01           0           0           0           0           0           0           0           0
+         24:20       23:10           0           0           0           0           0           0           0           0
+         25:29       24:20           0           0           0           0           0           0           0           0
+         26:41       25:29           0           0           0           0           0           0           0           0
+         27:53       26:41           0           0           0           0           0           0           0           0
+         29:12       27:53           0           0           0           0           0           0           0           0
+         30:21       29:12           0           0           0           0           0           0           0           0
+         31:33       30:21           0           0           0           0           0           0           0           0
+   19:08:56:04         now        3737          71          17          21          22          24           5           0
+
+   Use counters                   <= 1        <= 2        <= 5       <= 10       <= 20       <= 50      <= 100       > 100
+          0:18         now           0           0           0           0           0           0           0           0
+         22:01        0:18           0           0           0           0           0           0           0           2
+         23:10       22:01           0           0           0           0           0           0           0           0
+         24:20       23:10           0           0           0           0           0           0           0           0
+         25:29       24:20           0           0           0           0           0           0           0           0
+         26:41       25:29           0           0           0           0           0           0           0           0
+         27:53       26:41           0           0           0           0           0           0           0           0
+         29:12       27:53           0           0           0           0           0           0           0           0
+         30:21       29:12           0           0           0           0           0           0           0           0
+         31:33       30:21           0           0           0           0           0           0           0           0
+   19:08:56:04         now         320          67         166         189         275         550         505        1824

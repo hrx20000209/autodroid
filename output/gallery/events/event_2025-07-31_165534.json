@@ -1,0 +1,51 @@
+{
+  "tag": "2025-07-31_165534",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          126,
+          90
+        ],
+        [
+          1200,
+          198
+        ]
+      ],
+      "resource_id": "com.simplemobiletools.gallery.pro:id/top_toolbar_search",
+      "checked": false,
+      "text": "Search files",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "1074*108",
+      "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery.pro:id/top_toolbar_search[text]Search files[enabled,,]",
+      "view_str": "f53d37d01d4a20b84420116fed9a364f",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery.pro:id/top_toolbar_search"
+    },
+    "x": null,
+    "y": null,
+    "text": "11"
+  },
+  "start_state": "7e731cd52d739d2bd0ec2575190a8845a723c24172d105a257f013d7866b4ba8",
+  "stop_state": "6c4b6f8f5a474d1dd94d958626d8b5199df502346c489befc50e404c1024e5b2",
+  "event_str": "SetTextEvent(state=7e731cd52d739d2bd0ec2575190a8845a723c24172d105a257f013d7866b4ba8, view=f53d37d01d4a20b84420116fed9a364f(MediaActivity/EditText-Search fil), text=11)"
+}

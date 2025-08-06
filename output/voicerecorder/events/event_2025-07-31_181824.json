@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_181824",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Orange"
+  },
+  "start_state": "aaa380fd4a5a66831d9030d872266a3c54d00faf09bcf4e7ad6041a45f47240a",
+  "stop_state": "0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Orange')"
+}

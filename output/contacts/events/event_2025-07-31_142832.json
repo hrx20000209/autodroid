@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_142832",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange"
+  },
+  "start_state": "766c64a986ffadb99ea8d35d1468b3c5f052bb491a7eb3d915a0b656a85f6c8e",
+  "stop_state": "61d8e695dfc168ee454dbf9c0d051ec8931e03ece2ecaa05a6b492f65bfdfbd4",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange')"
+}

@@ -1,0 +1,24 @@
+records:
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <input id=1>Search</input>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''About''></button>
+
+    <p id=4>00:00</p>
+
+    <p id=5>Recorder</p>
+
+    <button id=6>Player</button>
+
+    <button id=7>Recycle Bin</button>
+
+    <button id=8>go back</button>'
+  state_str:
+  - 0c04a05fe5c752f5ff01b8af7070bcc992bcb403d4425e1aca0285301b135f08
+step_num: 1
+task_name: '4'

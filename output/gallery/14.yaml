@@ -1,0 +1,24 @@
+records:
+- Choice: 1
+  Input: '14'
+  State: '<button id=0 text=''Search''></button>
+
+    <input id=1>Search files</input>
+
+    <button id=2 text=''Toggle filename visibility''></button>
+
+    <button id=3 text=''Switch to folder view''></button>
+
+    <button id=4 text=''Sort by''></button>
+
+    <button id=5 text=''Filter media''></button>
+
+    <button id=6 text=''More options''></button>
+
+    <button id=7>Today</button>
+
+    <button id=8>go back</button>'
+  state_str:
+  - 7e731cd52d739d2bd0ec2575190a8845a723c24172d105a257f013d7866b4ba8
+step_num: 1
+task_name: '14'

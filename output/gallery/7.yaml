@@ -1,0 +1,45 @@
+records:
+- Choice: 8
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <input id=1>Search folders</input>
+
+    <button id=2 text=''Open camera''></button>
+
+    <button id=3 text=''Show all folders content''></button>
+
+    <button id=4 text=''Sort by''></button>
+
+    <button id=5 text=''Filter media''></button>
+
+    <button id=6 text=''More options''></button>
+
+    <p id=7>No media files have been found. You can solve it by adding the folders
+    containing media files manually.</p>
+
+    <button id=8>Add folder</button>
+
+    <button id=9>go back</button>'
+  state_str:
+  - 50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>> Pictures</button>
+
+    <button id=3>> hiddenAlbum</button>
+
+    <button id=4>bins<br>0 items</button>
+
+    <button id=5>Cancel</button>
+
+    <button id=6>OK</button>
+
+    <button id=7>go back</button>'
+  state_str: 461ff2f75a2b9ed66207cd932e2eb37a4b2f5f46bc9f5fc55e6c2c5b8af881f4
+step_num: 2
+task_name: '7'

@@ -1,0 +1,1 @@
+[['Select a folder', 8], ['Internal', 17], ['> Pictures', 18], ['> hiddenAlbum', 19], ['bins', 25], ['0 items', 26], ['Cancel', 34], ['OK', 35]]

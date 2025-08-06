@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_170656",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.musicplayer"
+  },
+  "start_state": "2d22130a64b61a1afc108aa611e1d041dd2a51f6ba1342cc1759ad94b9ad8939",
+  "stop_state": "e4feaeb2e9b35c6886b80a4c69ea6e796739624614aad6ae40bc7f87ead56ff4",
+  "event_str": "KillAppEvent()"
+}

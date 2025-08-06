@@ -1,0 +1,1 @@
+[['Search', 9], ['Search folders', 10], ['Open camera', 13], ['Show all folders content', 14], ['Sort by', 15], ['Filter media', 16], ['More options', 17], ['Camera', 26], ['1', 27]]

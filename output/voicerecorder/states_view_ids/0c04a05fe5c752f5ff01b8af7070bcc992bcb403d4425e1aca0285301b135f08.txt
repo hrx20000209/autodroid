@@ -1,0 +1,1 @@
+[['Search', 9], ['Search', 10], ['Settings', 13], ['About', 14], ['00:00', 19], ['Recorder', 40], ['Player', 44], ['Recycle Bin', 48]]

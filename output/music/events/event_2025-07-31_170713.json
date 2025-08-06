@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_170713",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange"
+  },
+  "start_state": "e4feaeb2e9b35c6886b80a4c69ea6e796739624614aad6ae40bc7f87ead56ff4",
+  "stop_state": "7ceacb0def8539e6fb11f615691129c8c98cbee8b670824c9ee7364cc0c28a30",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange')"
+}

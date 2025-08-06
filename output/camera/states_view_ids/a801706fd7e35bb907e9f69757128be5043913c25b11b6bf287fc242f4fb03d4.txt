@@ -1,0 +1,1 @@
+[['Allow Camera to access the camera?', 9], ['ALLOW ONLY WHILE IN USE', 12], ['ALLOW THIS TIME ONLY', 13], ['DENY', 14]]

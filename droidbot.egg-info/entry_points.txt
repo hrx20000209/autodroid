@@ -1,0 +1,2 @@
+[console_scripts]
+droidbot = start:main

@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-30_150805",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.camera"
+  },
+  "start_state": "10880cae28595ce490433cbe0379c4cfbba2535a9867365d3d038225d48a890c",
+  "stop_state": "a18cd0d961fe16054b778e55c4c85cd2601acceb216807f831722a4906bdb816",
+  "event_str": "KillAppEvent()"
+}

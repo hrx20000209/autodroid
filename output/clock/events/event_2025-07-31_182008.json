@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_182008",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange"
+  },
+  "start_state": "241e2122bd35687f709c89e2c69ec8cd6d259453b852b4c38d3d6e7ee63ef91c",
+  "stop_state": "241e2122bd35687f709c89e2c69ec8cd6d259453b852b4c38d3d6e7ee63ef91c",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange')"
+}

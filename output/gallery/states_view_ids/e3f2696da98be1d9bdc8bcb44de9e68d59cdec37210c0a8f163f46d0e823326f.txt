@@ -1,0 +1,1 @@
+[["Allow Camera to access this device's location?", 9], ['Tag photos and videos with location information.', 10], ['PRECISE LOCATION: ON', 15], ['ALLOW ONLY WHILE IN USE', 20], ['ALLOW THIS TIME ONLY', 21], ['DENY', 22]]

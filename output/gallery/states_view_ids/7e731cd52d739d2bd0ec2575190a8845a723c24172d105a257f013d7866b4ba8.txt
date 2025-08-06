@@ -1,0 +1,1 @@
+[['Search', 9], ['Search files', 10], ['Toggle filename visibility', 13], ['Switch to folder view', 14], ['Sort by', 15], ['Filter media', 16], ['More options', 17], ['Today', 22]]

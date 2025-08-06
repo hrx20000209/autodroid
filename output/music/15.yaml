@@ -1,0 +1,14 @@
+records:
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Search'></button>\n<input id=1>Search</input>\n<button\
+    \ id=2 text='Sort by'></button>\n<button id=3 text='Equalizer'></button>\n<button\
+    \ id=4 text='Settings'></button>\n<button id=5 text='About'></button>\n<button\
+    \ id=6 text='More options'></button>\n<button id=7>All tracks<br>1 Track</button>\n\
+    <button id=8>Dream It Possible \u2022 Delacey</button>\n<p id=9>Playlists</p>\n\
+    <button id=10>Folders</button>\n<button id=11>Artists</button>\n<button id=12>Albums</button>\n\
+    <button id=13>Tracks</button>\n<button id=14>go back</button>"
+  state_str:
+  - 7ceacb0def8539e6fb11f615691129c8c98cbee8b670824c9ee7364cc0c28a30
+step_num: 1
+task_name: '15'

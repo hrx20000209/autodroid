@@ -1,0 +1,450 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.media.action.IMAGE_CAPTURE:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 88f407b
+          Action: "android.media.action.IMAGE_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.IMAGE_CAPTURE_SECURE:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 4c61e98
+          Action: "android.media.action.IMAGE_CAPTURE_SECURE"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        4115120 com.simplemobiletools.camera/.activities.SplashActivity.Grey_black filter d77ad9
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        39c9e com.simplemobiletools.camera/.activities.SplashActivity.Blue_grey filter b76037f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        98a5f4c com.simplemobiletools.camera/.activities.SplashActivity.Brown filter 9bbeb95
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        108e4aa com.simplemobiletools.camera/.activities.SplashActivity.Deep_orange filter bf1589b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        1a42438 com.simplemobiletools.camera/.activities.SplashActivity.Orange filter 13cac11
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        968a176 com.simplemobiletools.camera/.activities.SplashActivity.Amber filter a02e377
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        9934be4 com.simplemobiletools.camera/.activities.SplashActivity.Yellow filter b2ef84d
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        b355f02 com.simplemobiletools.camera/.activities.SplashActivity.Lime filter 6384013
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        b2b4250 com.simplemobiletools.camera/.activities.SplashActivity.Light_green filter 97fcc49
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        51e694e com.simplemobiletools.camera/.activities.SplashActivity.Green filter 25cca6f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        80a337c com.simplemobiletools.camera/.activities.SplashActivity.Teal filter 5efe405
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        f7bcc5a com.simplemobiletools.camera/.activities.SplashActivity.Cyan filter 7959e8b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        b850b68 com.simplemobiletools.camera/.activities.SplashActivity.Light_blue filter b8fbb81
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        e1a5426 com.simplemobiletools.camera/.activities.SplashActivity.Blue filter 23d9867
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        f537614 com.simplemobiletools.camera/.activities.SplashActivity.Indigo filter bfb8ebd
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        2c78cb2 com.simplemobiletools.camera/.activities.SplashActivity.Deep_purple filter f815403
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        efbdf80 com.simplemobiletools.camera/.activities.SplashActivity.Purple filter c5759b9
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        c9dc1fe com.simplemobiletools.camera/.activities.SplashActivity.Pink filter 8bb2d5f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        5ff73ac com.simplemobiletools.camera/.activities.SplashActivity.Red filter 60ad875
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.APPLICATION_PREFERENCES:
+        f12a12d com.simplemobiletools.camera/.activities.SettingsActivity filter dd88662
+          Action: "android.intent.action.APPLICATION_PREFERENCES"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.STILL_IMAGE_CAMERA:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 73d86f1
+          Action: "android.media.action.STILL_IMAGE_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.STILL_IMAGE_CAMERA_SECURE:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 3b612d6
+          Action: "android.media.action.STILL_IMAGE_CAMERA_SECURE"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.VIDEO_CAPTURE:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 84a8c44
+          Action: "android.media.action.VIDEO_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+      android.media.action.VIDEO_CAMERA:
+        10000a com.simplemobiletools.camera/.activities.MainActivity filter 5c76957
+          Action: "android.media.action.VIDEO_CAMERA"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.CAMERA_BUTTON:
+        fef43f3 com.simplemobiletools.camera/.receivers.HardwareShutterReceiver filter 8628b0
+          Action: "android.intent.action.CAMERA_BUTTON"
+      com.simplemobiletools.commons.SHARED_THEME_ACTIVATED:
+        1a52329 com.simplemobiletools.camera/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter ebca6ae
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      com.simplemobiletools.commons.SHARED_THEME_UPDATED:
+        1a52329 com.simplemobiletools.camera/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter ebca6ae
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+
+Domain verification status:
+
+Registered ContentProviders:
+  com.simplemobiletools.camera/androidx.core.content.FileProvider:
+    Provider{697de90 com.simplemobiletools.camera/androidx.core.content.FileProvider}
+  com.simplemobiletools.camera/androidx.startup.InitializationProvider:
+    Provider{7d9d389 com.simplemobiletools.camera/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.simplemobiletools.camera.provider]:
+    Provider{697de90 com.simplemobiletools.camera/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{b28ff8e com.simplemobiletools.camera}
+  [com.simplemobiletools.camera.androidx-startup]:
+    Provider{7d9d389 com.simplemobiletools.camera/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{42643af com.simplemobiletools.camera}
+
+Key Set Manager:
+  [com.simplemobiletools.camera]
+      Signing KeySets: 136
+
+Packages:
+  Package [com.simplemobiletools.camera] (54453bc):
+    userId=10238
+    pkg=Package{ce50823 com.simplemobiletools.camera}
+    codePath=/data/app/~~eA2_LnjPfDej5WNXZQDGHA==/com.simplemobiletools.camera-Nyudr8ol2ZI5B_-bvjEU3A==
+    resourcePath=/data/app/~~eA2_LnjPfDej5WNXZQDGHA==/com.simplemobiletools.camera-Nyudr8ol2ZI5B_-bvjEU3A==
+    legacyNativeLibraryDir=/data/app/~~eA2_LnjPfDej5WNXZQDGHA==/com.simplemobiletools.camera-Nyudr8ol2ZI5B_-bvjEU3A==/lib
+    extractNativeLibs=false
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=86 minSdk=29 targetSdk=33
+    minExtensionVersions=[]
+    versionName=5.6.3
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=PackageImpl{ce50823 com.simplemobiletools.camera}
+    applicationInfo.owns=-1
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    hwflags=[ ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesIntents=[Intent { act=androidx.camera.extensions.action.VENDOR_ACTION }]
+    dataDir=/data/user/0/com.simplemobiletools.camera
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      androidx.window.extensions
+      androidx.window.sidecar
+      androidx.camera.extensions.impl
+    timeStamp=2025-07-30 15:07:59
+    firstInstallTime=2025-07-30 15:08:04
+    lastUpdateTime=2025-07-30 15:08:04
+    signatures=PackageSignatures{f031f45 version:3, signatures:[8c379384], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.RECORD_AUDIO
+      android.permission.CAMERA
+      android.permission.DISABLE_KEYGUARD
+      android.permission.READ_MEDIA_IMAGES
+      android.permission.READ_MEDIA_VIDEO
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.POST_NOTIFICATIONS
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      android.permission.DISABLE_KEYGUARD: granted=true
+    User 0: ceDataInode=171129 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.CAMERA: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+    User 10: ceDataInode=0 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.CAMERA: granted=false
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=false
+    User 11: ceDataInode=171481 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ REVIEW_REQUIRED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.CAMERA: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    [com.huawei.game.kitserver,androidhwext,com.android.keychain,com.android.location.fused,com.android.networkstack.inprocess,com.huawei.iaware,com.huawei.systemmanager,com.huawei.android.projectmenu,com.android.settings,com.huawei.searchservice,com.huawei.waudio,com.huawei.hwdetectrepair,com.huawei.audioaccessorymanager,com.huawei.android.hwaps,com.huawei.mmitest,com.android.inputdevices,com.huawei.systemserver,com.android.networkstack.tethering.inprocess,com.huawei.nb.service,com.huawei.hiview,com.android.server.telecom,com.huawei.msdp,com.android.providers.settings,com.huawei.android.chr,android,com.huawei.ca,com.huawei.android.internal.app,com.huawei.dmsdp,com.huawei.harmonyos.foundation,com.android.wallpaperbackup,com.huawei.gateway,com.android.localtransport,com.huawei.hwddmp,com.huawei.powergenie]:
+      com.simplemobiletools.camera
+    com.huawei.nemo:
+      com.simplemobiletools.camera
+    com.huawei.music:
+      com.simplemobiletools.camera
+    com.UCMobile:
+      com.simplemobiletools.camera
+    com.vmall.client:
+      com.simplemobiletools.camera
+    com.easy.abroad:
+      com.simplemobiletools.camera
+    com.xingin.xhs:
+      com.simplemobiletools.camera
+    com.ss.android.ugc.aweme:
+      com.simplemobiletools.camera
+    com.qiyi.video.pad:
+      com.simplemobiletools.camera
+    com.tencent.mm:
+      com.simplemobiletools.camera
+    com.lemon.lv:
+      com.simplemobiletools.camera
+    com.simplemobiletools.gallery.pro:
+      com.simplemobiletools.camera
+  queryable via interaction:
+    User 0:
+    User 10:
+    User 11:
+  queryable via uses-library:
+
+Package Changes:
+  Sequence number=350
+  User 0:
+    seq=1, package=com.huawei.hwstartupguide
+    seq=4, package=com.huawei.localBackup
+    seq=5, package=com.huawei.gamebox
+    seq=6, package=com.huawei.hinote
+    seq=7, package=com.huawei.hidisk
+    seq=8, package=com.huawei.phoneservice
+    seq=18, package=com.easy.abroad
+    seq=27, package=com.huawei.health
+    seq=28, package=com.tencent.weread
+    seq=29, package=com.huawei.browser
+    seq=30, package=com.huawei.android.thememanager
+    seq=32, package=com.huawei.hsl
+    seq=33, package=com.huawei.wallet
+    seq=34, package=tv.danmaku.bili
+    seq=35, package=com.hicloud.android.clone
+    seq=36, package=com.huawei.audioaccessorymanager
+    seq=37, package=com.vmall.client
+    seq=38, package=com.huawei.gameassistant
+    seq=39, package=com.huawei.android.totemweather
+    seq=40, package=com.huawei.himovie
+    seq=41, package=com.huawei.fastapp
+    seq=42, package=com.huawei.smarthome
+    seq=43, package=com.huawei.intelligent
+    seq=45, package=com.tencent.mm
+    seq=52, package=com.huawei.appmarket
+    seq=53, package=com.android.shell
+    seq=54, package=com.android.settings
+    seq=55, package=com.huawei.hwdiagnosis
+    seq=81, package=com.coolapk.market
+    seq=83, package=com.UCMobile
+    seq=84, package=com.android.vending
+    seq=85, package=com.lemon.lv
+    seq=87, package=com.xingin.xhs
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=327, package=com.huawei.aod
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=348, package=io.github.ylimit.droidbotapp
+    seq=349, package=com.simplemobiletools.camera
+  User 10:
+    seq=88, package=com.huawei.health
+    seq=89, package=com.huawei.hiview
+    seq=90, package=com.huawei.iaware
+    seq=91, package=com.huawei.android.chr
+    seq=92, package=com.huawei.parentcontrol
+    seq=93, package=com.huawei.gameassistant
+    seq=94, package=com.huawei.associateassistant
+    seq=95, package=com.huawei.meetime
+    seq=96, package=com.huawei.android.hwouc
+    seq=97, package=com.huawei.mmitest
+    seq=98, package=com.huawei.ohos.health
+    seq=99, package=com.huawei.hsl
+    seq=100, package=com.huawei.android.airsharing
+    seq=101, package=com.huawei.trustspace
+    seq=107, package=com.android.permissioncontroller
+    seq=110, package=com.huawei.hwstartupguide
+    seq=111, package=com.huawei.android.launcher
+    seq=113, package=com.huawei.systemmanager
+    seq=114, package=com.huawei.aod
+    seq=139, package=com.huawei.vassistant
+    seq=141, package=com.huawei.deskclock
+    seq=162, package=com.huawei.android.thememanager
+    seq=165, package=com.huawei.hidisk
+    seq=172, package=com.huawei.nemo
+    seq=173, package=com.huawei.phoneservice
+    seq=178, package=com.android.settings
+    seq=183, package=com.android.statementservice
+    seq=184, package=com.huawei.contacts
+    seq=185, package=com.huawei.tips
+    seq=186, package=com.huawei.hilink.framework
+    seq=187, package=com.android.mms
+    seq=189, package=com.huawei.wallet
+    seq=190, package=com.huawei.calendar
+    seq=191, package=com.huawei.hwid
+    seq=194, package=com.huawei.email
+    seq=196, package=com.huawei.appmarket
+    seq=198, package=com.gbox.android
+    seq=201, package=com.google.android.gms
+    seq=206, package=com.android.chrome
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=348, package=io.github.ylimit.droidbotapp
+    seq=349, package=com.simplemobiletools.camera
+  User 11:
+    seq=208, package=com.huawei.health
+    seq=209, package=com.huawei.hiview
+    seq=210, package=com.huawei.iaware
+    seq=211, package=com.huawei.android.chr
+    seq=212, package=com.huawei.parentcontrol
+    seq=213, package=com.huawei.gameassistant
+    seq=214, package=com.huawei.associateassistant
+    seq=215, package=com.huawei.meetime
+    seq=216, package=com.huawei.android.hwouc
+    seq=217, package=com.huawei.mmitest
+    seq=218, package=com.huawei.ohos.health
+    seq=219, package=com.huawei.hsl
+    seq=220, package=com.huawei.android.airsharing
+    seq=221, package=com.huawei.trustspace
+    seq=227, package=com.android.permissioncontroller
+    seq=230, package=com.huawei.systemmanager
+    seq=231, package=com.huawei.android.launcher
+    seq=232, package=com.huawei.aod
+    seq=240, package=com.huawei.vassistant
+    seq=243, package=com.huawei.hidisk
+    seq=263, package=com.huawei.phoneservice
+    seq=265, package=com.huawei.android.thememanager
+    seq=270, package=com.huawei.appmarket
+    seq=290, package=com.android.mms
+    seq=292, package=com.huawei.contacts
+    seq=293, package=com.android.statementservice
+    seq=294, package=com.huawei.deskclock
+    seq=295, package=com.huawei.tips
+    seq=297, package=com.huawei.wallet
+    seq=298, package=com.huawei.nemo
+    seq=300, package=com.huawei.hilink.framework
+    seq=303, package=com.huawei.email
+    seq=304, package=com.huawei.calendar
+    seq=307, package=com.huawei.hwstartupguide
+    seq=308, package=com.huawei.hwid
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=322, package=com.huawei.music
+    seq=328, package=com.simplemobiletools.contacts.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=336, package=com.android.settings
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=339, package=com.simplemobiletools.calendar
+    seq=341, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=348, package=io.github.ylimit.droidbotapp
+    seq=349, package=com.simplemobiletools.camera
+
+
+
+Compiler stats:
+  [com.simplemobiletools.camera]
+     base.apk - 332
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+
+Snapshot statistics
+   Unrecorded-hits: 59410  Cork-level: 0
+   Summary stats               TotBlds     TotUsed     TotCork     BigBlds    ShortLvd     TotTime     MaxTime
+          0:16         now          15       72973           0           1           3          27          10
+          1:16        0:16           0           0           0           0           0           0           0
+          2:16        1:16           2      139048           0           0           0           4           3
+          3:16        2:16           0           0           0           0           0           0           0
+          4:16        3:16          12       45798           0           3           4          71          44
+          5:16        4:16          28      275571           0           1           5          27          10
+          6:16        5:16           0           0           0           0           0           0           0
+          7:16        6:16           0           0           0           0           0           0           0
+          8:16        7:16           0           0           0           0           0           0           0
+          9:16        8:16           0           0           0           0           0           0           0
+   18:13:05:13         now        3796    10713346           0          56         542        3005          77
+
+   Build times                  <= 1ms      <= 2ms      <= 5ms     <= 10ms     <= 20ms     <= 50ms    <= 100ms     > 100ms
+          0:16         now          12           1           0           2           0           0           0           0
+          1:16        0:16           0           0           0           0           0           0           0           0
+          2:16        1:16           1           0           1           0           0           0           0           0
+          3:16        2:16           0           0           0           0           0           0           0           0
+          4:16        3:16           9           0           0           1           1           1           0           0
+          5:16        4:16          26           0           0           2           0           0           0           0
+          6:16        5:16           0           0           0           0           0           0           0           0
+          7:16        6:16           0           0           0           0           0           0           0           0
+          8:16        7:16           0           0           0           0           0           0           0           0
+          9:16        8:16           0           0           0           0           0           0           0           0
+   18:13:05:13         now        3650          62          17          19          20          23           5           0
+
+   Use counters                   <= 1        <= 2        <= 5       <= 10       <= 20       <= 50      <= 100       > 100
+          0:16         now           2           0           1           0           0           1           0          11
+          1:16        0:16           0           0           0           0           0           0           0           0
+          2:16        1:16           0           0           0           0           0           0           0           2
+          3:16        2:16           0           0           0           0           0           0           0           0
+          4:16        3:16           4           0           0           3           0           1           0           4
+          5:16        4:16           2           2           1           0           0           3           1          19
+          6:16        5:16           0           0           0           0           0           0           0           0
+          7:16        6:16           0           0           0           0           0           0           0           0
+          8:16        7:16           0           0           0           0           0           0           0           0
+          9:16        8:16           0           0           0           0           0           0           0           0
+   18:13:05:13         now         311          66         164         187         275         545         499        1748

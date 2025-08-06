@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_100233",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity"
+  },
+  "start_state": "74bc1275dde2f1c474dc0d3597b82be0fa5b48a70c4dd5c21f1457ccef5a894a",
+  "stop_state": "74bc1275dde2f1c474dc0d3597b82be0fa5b48a70c4dd5c21f1457ccef5a894a",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity')"
+}

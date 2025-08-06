@@ -1,0 +1,520 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        2f50551 com.simplemobiletools.clock/.activities.SplashActivity.Grey_black filter 79821b6
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        ecffeb7 com.simplemobiletools.clock/.activities.SplashActivity.Blue_grey filter 6b56624
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        433a58d com.simplemobiletools.clock/.activities.SplashActivity.Brown filter e7ca342
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        bdbcf53 com.simplemobiletools.clock/.activities.SplashActivity.Deep_orange filter 2f4c090
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        4420d89 com.simplemobiletools.clock/.activities.SplashActivity.Orange filter 135b18e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        1ca0daf com.simplemobiletools.clock/.activities.SplashActivity.Amber filter 78d55bc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        2b4f945 com.simplemobiletools.clock/.activities.SplashActivity.Yellow filter b5f589a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        5b3d5cb com.simplemobiletools.clock/.activities.SplashActivity.Lime filter eb811a8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        9b0e4c1 com.simplemobiletools.clock/.activities.SplashActivity.Light_green filter 44a6466
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        b2803a7 com.simplemobiletools.clock/.activities.SplashActivity.Green filter b50a054
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        7260bfd com.simplemobiletools.clock/.activities.SplashActivity.Teal filter 58860f2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        5c73343 com.simplemobiletools.clock/.activities.SplashActivity.Cyan filter 416dc0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        dcc6af9 com.simplemobiletools.clock/.activities.SplashActivity.Light_blue filter e379a3e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        89fc09f com.simplemobiletools.clock/.activities.SplashActivity.Blue filter 2afa5ec
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        9dfbdb5 com.simplemobiletools.clock/.activities.SplashActivity.Indigo filter f0f1c4a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        f49c7bb com.simplemobiletools.clock/.activities.SplashActivity.Deep_purple filter 2e734d8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        59b8031 com.simplemobiletools.clock/.activities.SplashActivity.Purple filter b2ab316
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        cc32497 com.simplemobiletools.clock/.activities.SplashActivity.Pink filter 806c684
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        976ee6d com.simplemobiletools.clock/.activities.SplashActivity.Red filter 996eaa2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.APPLICATION_PREFERENCES:
+        c0b7333 com.simplemobiletools.clock/.activities.SettingsActivity filter a6bc6f0
+          Action: "android.intent.action.APPLICATION_PREFERENCES"
+          Category: "android.intent.category.DEFAULT"
+      com.simplemobiletools.clock.TOGGLE_STOPWATCH:
+        4273fdb com.simplemobiletools.clock/.activities.SplashActivity filter 88d1a78
+          Action: "com.simplemobiletools.clock.TOGGLE_STOPWATCH"
+          Action: "android.intent.action.SHOW_ALARMS"
+          Category: "android.intent.category.DEFAULT"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        4210469 com.simplemobiletools.clock/.activities.WidgetDigitalConfigureActivity filter 39d0eee
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+        e800f8f com.simplemobiletools.clock/.activities.WidgetAnalogueConfigureActivity filter 8de621c
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+      android.intent.action.SHOW_ALARMS:
+        4273fdb com.simplemobiletools.clock/.activities.SplashActivity filter 88d1a78
+          Action: "com.simplemobiletools.clock.TOGGLE_STOPWATCH"
+          Action: "android.intent.action.SHOW_ALARMS"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        c46d9d9 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 7610f9e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        4978f23 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter a36cc20
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.QUICKBOOT_POWERON:
+        63c7e25 com.simplemobiletools.clock/.receivers.BootCompletedReceiver filter bcf2bfa
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      com.htc.intent.action.QUICKBOOT_POWERON:
+        63c7e25 com.simplemobiletools.clock/.receivers.BootCompletedReceiver filter bcf2bfa
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        949fa7f com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter c0c8a4c
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        6423a95 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter c4a87aa
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        949fa7f com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter c0c8a4c
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.app.action.NEXT_ALARM_CLOCK_CHANGED:
+        8a06187 com.simplemobiletools.clock/.receivers.UpdateWidgetReceiver filter f6ad8b4
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.app.action.NEXT_ALARM_CLOCK_CHANGED"
+      com.simplemobiletools.commons.SHARED_THEME_ACTIVATED:
+        dbd4cdd com.simplemobiletools.clock/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter 6f34052
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      android.intent.action.BATTERY_LOW:
+        c46d9d9 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 7610f9e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        8a06187 com.simplemobiletools.clock/.receivers.UpdateWidgetReceiver filter f6ad8b4
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.app.action.NEXT_ALARM_CLOCK_CHANGED"
+        88dbf9b com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 19dff38
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        8a06187 com.simplemobiletools.clock/.receivers.UpdateWidgetReceiver filter f6ad8b4
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.app.action.NEXT_ALARM_CLOCK_CHANGED"
+        88dbf9b com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 19dff38
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        63c7e25 com.simplemobiletools.clock/.receivers.BootCompletedReceiver filter bcf2bfa
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+        88dbf9b com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 19dff38
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        4978f23 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter a36cc20
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.appwidget.action.APPWIDGET_ENABLED:
+        3f815ab com.simplemobiletools.clock/.helpers.MyDigitalTimeWidgetProvider filter 47d8408
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+        ddbd7a1 com.simplemobiletools.clock/.helpers.MyAnalogueTimeWidgetProvider filter 9d40dc6
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+      com.simplemobiletools.commons.SHARED_THEME_UPDATED:
+        dbd4cdd com.simplemobiletools.clock/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter 6f34052
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        3f815ab com.simplemobiletools.clock/.helpers.MyDigitalTimeWidgetProvider filter 47d8408
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+        ddbd7a1 com.simplemobiletools.clock/.helpers.MyAnalogueTimeWidgetProvider filter 9d40dc6
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "android.appwidget.action.APPWIDGET_ENABLED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        17eba77 com.simplemobiletools.clock/androidx.work.impl.diagnostics.DiagnosticsReceiver filter ecfd6e4
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        158eb11 com.simplemobiletools.clock/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter aa17476
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Domain verification status:
+
+Registered ContentProviders:
+  com.simplemobiletools.clock/androidx.startup.InitializationProvider:
+    Provider{ee1f3e3 com.simplemobiletools.clock/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.simplemobiletools.clock.androidx-startup]:
+    Provider{ee1f3e3 com.simplemobiletools.clock/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{4a150a9 com.simplemobiletools.clock}
+
+Key Set Manager:
+  [com.simplemobiletools.clock]
+      Signing KeySets: 130
+
+Packages:
+  Package [com.simplemobiletools.clock] (6e5ac99):
+    userId=10232
+    pkg=Package{6d4e0ea com.simplemobiletools.clock}
+    codePath=/data/app/~~uOj2HP1OIyCvi0nLSw8DlQ==/com.simplemobiletools.clock-1aUTa6f0PzchwuTpg6HNrw==
+    resourcePath=/data/app/~~uOj2HP1OIyCvi0nLSw8DlQ==/com.simplemobiletools.clock-1aUTa6f0PzchwuTpg6HNrw==
+    legacyNativeLibraryDir=/data/app/~~uOj2HP1OIyCvi0nLSw8DlQ==/com.simplemobiletools.clock-1aUTa6f0PzchwuTpg6HNrw==/lib
+    extractNativeLibs=false
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=36 minSdk=23 targetSdk=33
+    minExtensionVersions=[]
+    versionName=5.10.0
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=PackageImpl{6d4e0ea com.simplemobiletools.clock}
+    applicationInfo.owns=-1
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    hwflags=[ ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/com.simplemobiletools.clock
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      androidx.window.extensions
+      androidx.window.sidecar
+    timeStamp=2025-07-30 11:05:04
+    firstInstallTime=2025-07-30 11:05:07
+    lastUpdateTime=2025-07-30 11:05:07
+    signatures=PackageSignatures{1b74b5e version:3, signatures:[7d25022], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      com.android.alarm.permission.SET_ALARM
+      android.permission.VIBRATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.USE_FULL_SCREEN_INTENT
+      android.permission.SCHEDULE_EXACT_ALARM
+      android.permission.FOREGROUND_SERVICE
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.WAKE_LOCK
+      android.permission.POST_NOTIFICATIONS
+      com.huawei.permission.POPUP_BACKGROUND_WINDOW
+    install permissions:
+      android.permission.SYSTEM_ALERT_WINDOW: granted=false
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.android.alarm.permission.SET_ALARM: granted=true
+      android.permission.USE_FULL_SCREEN_INTENT: granted=true
+      com.huawei.permission.POPUP_BACKGROUND_WINDOW: granted=true
+      android.permission.SCHEDULE_EXACT_ALARM: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=131239 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+    User 10: ceDataInode=0 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false
+    User 11: ceDataInode=172818 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=false enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+      enabledComponents:
+        androidx.work.impl.background.systemjob.SystemJobService
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    [com.huawei.game.kitserver,androidhwext,com.android.keychain,com.android.location.fused,com.android.networkstack.inprocess,com.huawei.iaware,com.huawei.systemmanager,com.huawei.android.projectmenu,com.android.settings,com.huawei.searchservice,com.huawei.waudio,com.huawei.hwdetectrepair,com.huawei.audioaccessorymanager,com.huawei.android.hwaps,com.huawei.mmitest,com.android.inputdevices,com.huawei.systemserver,com.android.networkstack.tethering.inprocess,com.huawei.nb.service,com.huawei.hiview,com.android.server.telecom,com.huawei.msdp,com.android.providers.settings,com.huawei.android.chr,android,com.huawei.ca,com.huawei.android.internal.app,com.huawei.dmsdp,com.huawei.harmonyos.foundation,com.android.wallpaperbackup,com.huawei.gateway,com.android.localtransport,com.huawei.hwddmp,com.huawei.powergenie]:
+      com.simplemobiletools.clock
+    com.huawei.nemo:
+      com.simplemobiletools.clock
+    com.huawei.music:
+      com.simplemobiletools.clock
+    com.UCMobile:
+      com.simplemobiletools.clock
+    com.vmall.client:
+      com.simplemobiletools.clock
+    com.easy.abroad:
+      com.simplemobiletools.clock
+    com.xingin.xhs:
+      com.simplemobiletools.clock
+    com.qiyi.video.pad:
+      com.simplemobiletools.clock
+    com.tencent.mm:
+      com.simplemobiletools.clock
+  queryable via interaction:
+    User 0:
+    User 10:
+    User 11:
+      [com.huawei.game.kitserver,androidhwext,com.android.keychain,com.android.location.fused,com.android.networkstack.inprocess,com.huawei.iaware,com.huawei.systemmanager,com.huawei.android.projectmenu,com.android.settings,com.huawei.searchservice,com.huawei.waudio,com.huawei.hwdetectrepair,com.huawei.audioaccessorymanager,com.huawei.android.hwaps,com.huawei.mmitest,com.android.inputdevices,com.huawei.systemserver,com.android.networkstack.tethering.inprocess,com.huawei.nb.service,com.huawei.hiview,com.android.server.telecom,com.huawei.msdp,com.android.providers.settings,com.huawei.android.chr,android,com.huawei.ca,com.huawei.android.internal.app,com.huawei.dmsdp,com.huawei.harmonyos.foundation,com.android.wallpaperbackup,com.huawei.gateway,com.android.localtransport,com.huawei.hwddmp,com.huawei.powergenie]:
+        com.simplemobiletools.clock
+      com.android.providers.media.module:
+        com.simplemobiletools.clock
+      com.huawei.ohos.inputmethod:
+        com.simplemobiletools.clock
+  queryable via uses-library:
+
+Package Changes:
+  Sequence number=361
+  User 0:
+    seq=1, package=com.huawei.hwstartupguide
+    seq=4, package=com.huawei.localBackup
+    seq=5, package=com.huawei.gamebox
+    seq=6, package=com.huawei.hinote
+    seq=7, package=com.huawei.hidisk
+    seq=8, package=com.huawei.phoneservice
+    seq=18, package=com.easy.abroad
+    seq=27, package=com.huawei.health
+    seq=28, package=com.tencent.weread
+    seq=29, package=com.huawei.browser
+    seq=30, package=com.huawei.android.thememanager
+    seq=32, package=com.huawei.hsl
+    seq=33, package=com.huawei.wallet
+    seq=34, package=tv.danmaku.bili
+    seq=35, package=com.hicloud.android.clone
+    seq=36, package=com.huawei.audioaccessorymanager
+    seq=37, package=com.vmall.client
+    seq=38, package=com.huawei.gameassistant
+    seq=39, package=com.huawei.android.totemweather
+    seq=40, package=com.huawei.himovie
+    seq=41, package=com.huawei.fastapp
+    seq=42, package=com.huawei.smarthome
+    seq=43, package=com.huawei.intelligent
+    seq=45, package=com.tencent.mm
+    seq=52, package=com.huawei.appmarket
+    seq=53, package=com.android.shell
+    seq=54, package=com.android.settings
+    seq=55, package=com.huawei.hwdiagnosis
+    seq=81, package=com.coolapk.market
+    seq=83, package=com.UCMobile
+    seq=84, package=com.android.vending
+    seq=85, package=com.lemon.lv
+    seq=87, package=com.xingin.xhs
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=327, package=com.huawei.aod
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=358, package=com.simplemobiletools.contacts.pro
+    seq=360, package=io.github.ylimit.droidbotapp
+  User 10:
+    seq=88, package=com.huawei.health
+    seq=89, package=com.huawei.hiview
+    seq=90, package=com.huawei.iaware
+    seq=91, package=com.huawei.android.chr
+    seq=92, package=com.huawei.parentcontrol
+    seq=93, package=com.huawei.gameassistant
+    seq=94, package=com.huawei.associateassistant
+    seq=95, package=com.huawei.meetime
+    seq=96, package=com.huawei.android.hwouc
+    seq=97, package=com.huawei.mmitest
+    seq=98, package=com.huawei.ohos.health
+    seq=99, package=com.huawei.hsl
+    seq=100, package=com.huawei.android.airsharing
+    seq=101, package=com.huawei.trustspace
+    seq=107, package=com.android.permissioncontroller
+    seq=110, package=com.huawei.hwstartupguide
+    seq=111, package=com.huawei.android.launcher
+    seq=113, package=com.huawei.systemmanager
+    seq=114, package=com.huawei.aod
+    seq=139, package=com.huawei.vassistant
+    seq=141, package=com.huawei.deskclock
+    seq=162, package=com.huawei.android.thememanager
+    seq=165, package=com.huawei.hidisk
+    seq=172, package=com.huawei.nemo
+    seq=173, package=com.huawei.phoneservice
+    seq=178, package=com.android.settings
+    seq=183, package=com.android.statementservice
+    seq=184, package=com.huawei.contacts
+    seq=185, package=com.huawei.tips
+    seq=186, package=com.huawei.hilink.framework
+    seq=187, package=com.android.mms
+    seq=189, package=com.huawei.wallet
+    seq=190, package=com.huawei.calendar
+    seq=191, package=com.huawei.hwid
+    seq=194, package=com.huawei.email
+    seq=196, package=com.huawei.appmarket
+    seq=198, package=com.gbox.android
+    seq=201, package=com.google.android.gms
+    seq=206, package=com.android.chrome
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=338, package=com.simplemobiletools.calendar
+    seq=340, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=358, package=com.simplemobiletools.contacts.pro
+    seq=360, package=io.github.ylimit.droidbotapp
+  User 11:
+    seq=208, package=com.huawei.health
+    seq=209, package=com.huawei.hiview
+    seq=210, package=com.huawei.iaware
+    seq=211, package=com.huawei.android.chr
+    seq=212, package=com.huawei.parentcontrol
+    seq=213, package=com.huawei.gameassistant
+    seq=214, package=com.huawei.associateassistant
+    seq=215, package=com.huawei.meetime
+    seq=216, package=com.huawei.android.hwouc
+    seq=217, package=com.huawei.mmitest
+    seq=218, package=com.huawei.ohos.health
+    seq=219, package=com.huawei.hsl
+    seq=220, package=com.huawei.android.airsharing
+    seq=221, package=com.huawei.trustspace
+    seq=227, package=com.android.permissioncontroller
+    seq=230, package=com.huawei.systemmanager
+    seq=231, package=com.huawei.android.launcher
+    seq=232, package=com.huawei.aod
+    seq=240, package=com.huawei.vassistant
+    seq=243, package=com.huawei.hidisk
+    seq=263, package=com.huawei.phoneservice
+    seq=265, package=com.huawei.android.thememanager
+    seq=270, package=com.huawei.appmarket
+    seq=290, package=com.android.mms
+    seq=292, package=com.huawei.contacts
+    seq=293, package=com.android.statementservice
+    seq=294, package=com.huawei.deskclock
+    seq=295, package=com.huawei.tips
+    seq=297, package=com.huawei.wallet
+    seq=298, package=com.huawei.nemo
+    seq=303, package=com.huawei.email
+    seq=304, package=com.huawei.calendar
+    seq=307, package=com.huawei.hwstartupguide
+    seq=308, package=com.huawei.hwid
+    seq=309, package=com.simplemobiletools.calendar.pro
+    seq=310, package=com.simplemobiletools.notes.pro
+    seq=322, package=com.huawei.music
+    seq=329, package=com.simplemobiletools.filemanager.pro
+    seq=330, package=com.simplemobiletools.gallery.pro
+    seq=331, package=com.simplemobiletools.launcher
+    seq=332, package=com.simplemobiletools.musicplayer
+    seq=333, package=com.simplemobiletools.voicerecorder
+    seq=334, package=com.simplemobiletools.smsmessenger
+    seq=335, package=com.simplemobiletools.calculator
+    seq=337, package=com.simplemobiletools.applauncher
+    seq=339, package=com.simplemobiletools.calendar
+    seq=341, package=com.simplemobiletools.clock
+    seq=342, package=com.simplemobiletools.dialer
+    seq=343, package=org.mozilla.firefox
+    seq=351, package=com.simplemobiletools.camera
+    seq=353, package=com.android.settings
+    seq=354, package=com.huawei.hilink.framework
+    seq=358, package=com.simplemobiletools.contacts.pro
+    seq=360, package=io.github.ylimit.droidbotapp
+
+
+
+Compiler stats:
+  [com.simplemobiletools.clock]
+     base.apk - 310
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+
+Snapshot statistics
+   Unrecorded-hits: 8224  Cork-level: 0
+   Summary stats               TotBlds     TotUsed     TotCork     BigBlds    ShortLvd     TotTime     MaxTime
+          0:46         now           0           0           0           0           0           0           0
+          1:46        0:46           4        2926           0           0           0           3           1
+          2:46        1:46           1        1448           0           0           0           0           0
+          3:46        2:46           3       50460           0           0           0           3           2
+          4:46        3:46           0           0           0           0           0           0           0
+          5:46        4:46           0           0           0           0           0           0           0
+          6:46        5:46           0           0           0           0           0           0           0
+          7:46        6:46           0           0           0           0           0           0           0
+          8:46        7:46           0           0           0           0           0           0           0
+          9:46        8:46           0           0           0           0           0           0           0
+   19:16:17:04         now        4175    13124926           0          64         585        3469          77
+
+   Build times                  <= 1ms      <= 2ms      <= 5ms     <= 10ms     <= 20ms     <= 50ms    <= 100ms     > 100ms
+          0:46         now           0           0           0           0           0           0           0           0
+          1:46        0:46           4           0           0           0           0           0           0           0
+          2:46        1:46           1           0           0           0           0           0           0           0
+          3:46        2:46           2           1           0           0           0           0           0           0
+          4:46        3:46           0           0           0           0           0           0           0           0
+          5:46        4:46           0           0           0           0           0           0           0           0
+          6:46        5:46           0           0           0           0           0           0           0           0
+          7:46        6:46           0           0           0           0           0           0           0           0
+          8:46        7:46           0           0           0           0           0           0           0           0
+          9:46        8:46           0           0           0           0           0           0           0           0
+   19:16:17:04         now        3993          83          21          23          25          25           5           0
+
+   Use counters                   <= 1        <= 2        <= 5       <= 10       <= 20       <= 50      <= 100       > 100
+          0:46         now           0           0           0           0           0           0           0           0
+          1:46        0:46           0           0           0           0           0           0           0           4
+          2:46        1:46           0           0           0           0           0           0           0           1
+          3:46        2:46           0           0           0           0           0           0           0           3
+          4:46        3:46           0           0           0           0           0           0           0           0
+          5:46        4:46           0           0           0           0           0           0           0           0
+          6:46        5:46           0           0           0           0           0           0           0           0
+          7:46        6:46           0           0           0           0           0           0           0           0
+          8:46        7:46           0           0           0           0           0           0           0           0
+          9:46        8:46           0           0           0           0           0           0           0           0
+   19:16:17:04         now         345          69         170         193         286         560         508        2043

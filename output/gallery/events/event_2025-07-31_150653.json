@@ -1,0 +1,50 @@
+{
+  "tag": "2025-07-31_150653",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "package": "com.simplemobiletools.gallery.pro",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1155,
+          2479
+        ],
+        [
+          1311,
+          2587
+        ]
+      ],
+      "resource_id": "android:id/button2",
+      "checked": false,
+      "text": "Cancel",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "156*108",
+      "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]Cancel[enabled,,]",
+      "view_str": "ca3d45290a8b82a776910b73975cc3d7",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "461ff2f75a2b9ed66207cd932e2eb37a4b2f5f46bc9f5fc55e6c2c5b8af881f4",
+  "stop_state": "50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2",
+  "event_str": "TouchEvent(state=461ff2f75a2b9ed66207cd932e2eb37a4b2f5f46bc9f5fc55e6c2c5b8af881f4, view=ca3d45290a8b82a776910b73975cc3d7(MainActivity/Button-Cancel))"
+}

@@ -1,0 +1,12 @@
+{
+  "tag": "2025-07-31_105856",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.calendar"
+  },
+  "start_state": "9c84c5bc896601a60f4791244cab1aac8a14ac505b0de5413c5d16d4dc2b784d",
+  "stop_state": "9c84c5bc896601a60f4791244cab1aac8a14ac505b0de5413c5d16d4dc2b784d",
+  "event_str": "KillAppEvent()"
+}

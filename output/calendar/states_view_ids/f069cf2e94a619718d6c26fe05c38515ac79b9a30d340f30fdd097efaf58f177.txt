@@ -1,0 +1,1 @@
+[['Ringer silent.', 24], ['WLAN signal full.', 28], ['Battery charging, 94 percent.', 37]]

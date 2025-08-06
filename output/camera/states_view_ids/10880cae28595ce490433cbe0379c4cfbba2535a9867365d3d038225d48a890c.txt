@@ -1,0 +1,1 @@
+[['Camera', 9], ['Camera', 10], ['Installation source: PC tools', 12], ['Installation successful', 16], ['DONE', 20], ['OPEN', 22]]

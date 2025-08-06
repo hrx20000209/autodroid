@@ -1,0 +1,91 @@
+records:
+- Choice: 8
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <input id=1>Search folders</input>
+
+    <button id=2 text=''Open camera''></button>
+
+    <button id=3 text=''Show all folders content''></button>
+
+    <button id=4 text=''Sort by''></button>
+
+    <button id=5 text=''Filter media''></button>
+
+    <button id=6 text=''More options''></button>
+
+    <p id=7>No media files have been found. You can solve it by adding the folders
+    containing media files manually.</p>
+
+    <button id=8>Add folder</button>
+
+    <button id=9>go back</button>'
+  state_str:
+  - 50bb0ea9625b032a8b90034d3956c5ee29b7806f6300defc376c0c1bbfbbdbb2
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>0 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>0 items</button>
+
+    <button id=8>Huawei<br>0 items</button>
+
+    <button id=9>HuaweiSystem<br>0 items</button>
+
+    <button id=10>Movies<br>0 items</button>
+
+    <button id=11>Music<br>0 items</button>
+
+    <button id=12>Notifications<br>0 items</button>
+
+    <button id=13>Pictures<br>1 item</button>
+
+    <button id=14>Podcasts<br>0 items</button>
+
+    <button id=15>Recordings<br>0 items</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>Cancel</button>
+
+    <button id=18>OK</button>
+
+    <button id=19>go back</button>
+
+    <button id=20>Sounds<br>0 items</button>
+
+    <p id=21 text=''handleImage''></p>'
+  state_str:
+  - 38121830d4bd8b9794d9b019a2ae269bd8f1e9dfc20f4ab190c38f59ed9ae145
+  - 42810015c6a2b2c70e0290cf62ffaf730856a45ac9ce4c13d25330c57cf1b7d8
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>> Pictures</button>
+
+    <button id=3>hiddenAlbum<br>1 item</button>
+
+    <button id=4>Cancel</button>
+
+    <button id=5>OK</button>
+
+    <button id=6>go back</button>'
+  state_str: efc8044b4c98c6c4adc2dff8989f06ebaab214fa2781c9cacf6e547524879d73
+step_num: 3
+task_name: '4'
