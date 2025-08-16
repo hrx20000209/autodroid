@@ -81,7 +81,7 @@ def query_deepseek(prompt):
         base_url="https://api.deepseek.com"
     )
     completion = client.chat.completions.create(
-        model="deepseek-chat",
+        model="deepseek-reasoner",
         messages=[
             # {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
